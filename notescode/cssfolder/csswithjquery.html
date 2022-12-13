@@ -1,0 +1,396 @@
+{% extends 'csscontent.html' %}
+
+
+{% block seotag %}
+                        <title> | ProgrammingGeeks</title>
+                        <meta charset="UTF-8"/>
+                        <meta name="description" content="Anchors  use for URL link or other any WebPage. Specifies the destination address. It can be an absolute or relative URL, or the name of an anchor."/>
+                        
+{% endblock seotag %}
+
+
+{% block contentb %}
+
+<div class="row">
+
+
+    <div class="col-xxl-11 col-lg-11 col-md-12 col-sm-12">
+
+        
+                        <div class="my-5">
+                            <h6 class="display-6">Changing CSS with jquery</h6>
+                        </div>
+                       
+                        
+
+
+
+                        <h2 class="h2css my-5 pt-">Inclue CSS code in HTML</h2>
+                        <p class="pcss">Use of class name</p>
+                        {% comment %} {/* start window */} {% endcomment %}
+                        <div class="colorplate  p-3">
+                            <div class="tttt  ">
+                            <p class="my-1">
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">div</span>
+                                <span class="">&nbsp;</span>
+                                <span class="content">class=</span>
+                                <span class="contenttext">"textcolor"</span>
+                                <span class="textcolorwhite">&gt;</span>
+                                <span class="textcontent">Frist text</span>
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">/div</span>
+                                <span class="textcolorwhite">&gt;</span>
+                            </p>
+                            <p class="my-1">
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">h1</span>
+                                <span class="textcolorwhite">&gt;</span>
+                                <span class="textcontent">H1 heading </span>
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">/h1</span>
+                                <span class="textcolorwhite">&gt;</span>
+                            </p>
+                            <p class="my-0">
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">p</span>
+                                <span class="textcolorwhite">&gt;</span>
+                                <span class="textcontent">Hello! World</span>
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">/p</span>
+                                <span class="textcolorwhite">&gt;</span>
+                            </p>
+                            </div>
+
+                        </div>
+                        {% comment %} {/* window end tag */} {% endcomment %}
+
+                        <h2 class="h2css mt-5 mb-2">Changing CSS with jquery</h2>
+                        <p class="pcss">Script tag use of body tag beforebegin . jquery example </p>
+
+                        <div class="colorplate  p-3">
+                            <div class="tttt tttt2">
+                            <p class="my-1">
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">script</span>
+                                <span class="">&nbsp;</span>
+                                <span class="content">src=</span>
+                                <span class="contenttext">"https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"</span>
+                                <span class="textcolorwhite">&gt;</span>
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">/script</span>
+                                <span class="textcolorwhite">&gt;</span>
+                            </p>
+                        
+                            {% comment %} {/* head start */} {% endcomment %}
+                            <p class="my-1">
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">script</span>
+                                <span class="textcolorwhite">&gt;</span>
+                            </p>
+
+                            
+
+                            
+                            <p class="my-0">
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="propcss">$</span>
+                                <span class="propcss">(</span>
+                                <span class="whitecontent">'</span>
+                                <span class="content">h1</span>
+                                <span class="whitecontent">'</span>
+                                <span class="propcss">)</span>
+                                <span class="propcss">.css</span>
+                                <span class="propcss">({</span><br>
+                                <span class="">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="contenttext">margin: </span>
+                                <span class="propnumtake">"5px",</span>
+                                <span class="contenttext">padding: </span>
+                                <span class="propnumtake">"10px",</span>
+                                <span class="contenttext">color: </span>
+                                <span class="propnumtake">"green",</span><br>
+                                
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="propcss">});</span>
+                            </p>
+
+                            
+                            
+                            <p class="my-0">
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="propcss">$</span>
+                                <span class="propcss">(</span>
+                                <span class="whitecontent">'</span>
+                                <span class="content">p</span>
+                                <span class="whitecontent">'</span>
+                                <span class="propcss">)</span>
+                                <span class="propcss">.css</span>
+                                <span class="propcss">({</span><br>
+                                <span class="">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="contenttext">margin: </span>
+                                <span class="propnumtake">"5px",</span>
+                                <span class="contenttext">padding: </span>
+                                <span class="propnumtake">"10px",</span>
+                                <span class="contenttext">color: </span>
+                                <span class="propnumtake">"red",</span><br>
+                                
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="propcss">});</span>
+                            </p>
+
+                            
+                            
+                            <p class="my-0">
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="propcss">$</span>
+                                <span class="propcss">(</span>
+                                <span class="whitecontent">'</span>
+                                <span class="content">.colortext</span>
+                                <span class="whitecontent">'</span>
+                                <span class="propcss">)</span>
+                                <span class="propcss">.css</span>
+                                <span class="propcss">({</span><br>
+                                <span class="">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="contenttext">margin: </span>
+                                <span class="propnumtake">"5px",</span>
+                                <span class="contenttext">padding: </span>
+                                <span class="propnumtake">"10px",</span>
+                                <span class="contenttext">color: </span>
+                                <span class="propnumtake">"blue",</span><br>
+                                
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="propcss">});</span>
+                            </p>
+
+                            
+                            <p class="my-1">   
+                                <span class="">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">/script</span>
+                                <span class="textcolorwhite">&gt;</span>
+                            </p>
+                            {% comment %} {/* head end */} {% endcomment %}
+                            
+                            </div>
+                        </div>
+
+                        <h2 class="h2css  my-5 pt-3">HTML CODE of file</h2>
+                        <div class="colorplate  p-3">
+                            <div class="tttt tttt3">
+                            <p class="my-1">
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="doctype">!DOCTYPE</span> 
+                                <span class="htmlhd">&nbsp;&nbsp;&nbsp;html</span>
+                                <span class="textcolorwhite">&gt;</span>
+                            </p>
+                            <p class="my-1">
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">html</span>
+                                <span class="content"> lang</span>
+                                <span class="contenttext">="en"</span>
+                                <span class="textcolorwhite">&gt;</span>
+                            </p>
+                            
+                            <p class="my-1">
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">body</span>
+                                <span class="textcolorwhite">&gt;</span>
+                            </p>
+                           <p class="my-1">
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">div</span>
+                                <span class="">&nbsp;</span>
+                                <span class="content">class=</span>
+                                <span class="contenttext">"textcolor"</span>
+                                <span class="textcolorwhite">&gt;</span>
+                                <span class="textcontent">Frist text</span>
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">/div</span>
+                                <span class="textcolorwhite">&gt;</span>
+                            </p>
+                            <p class="my-1">
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">h1</span>
+                                <span class="textcolorwhite">&gt;</span>
+                                <span class="textcontent">H1 heading </span>
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">/h1</span>
+                                <span class="textcolorwhite">&gt;</span>
+                            </p>
+                            <p class="my-0">
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">p</span>
+                                <span class="textcolorwhite">&gt;</span>
+                                <span class="textcontent">Hello! World</span>
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">/p</span>
+                                <span class="textcolorwhite">&gt;</span>
+                            </p>
+                             <p class="my-1">
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">script</span>
+                                <span class="">&nbsp;</span>
+                                <span class="content">src=</span>
+                                <span class="contenttext">"https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"</span>
+                                <span class="textcolorwhite">&gt;</span>
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">/script</span>
+                                <span class="textcolorwhite">&gt;</span>
+                            </p>
+                        
+                            {% comment %} {/* head start */} {% endcomment %}
+                            <p class="my-1">
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">script</span>
+                                <span class="textcolorwhite">&gt;</span>
+                            </p>
+
+                            
+
+                            
+                            <p class="my-0">
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="propcss">$</span>
+                                <span class="propcss">(</span>
+                                <span class="whitecontent">'</span>
+                                <span class="content">h1</span>
+                                <span class="whitecontent">'</span>
+                                <span class="propcss">)</span>
+                                <span class="propcss">.css</span>
+                                <span class="propcss">({</span><br>
+                                <span class="">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="contenttext">margin: </span>
+                                <span class="propnumtake">"5px",</span>
+                                <span class="contenttext">padding: </span>
+                                <span class="propnumtake">"10px",</span>
+                                <span class="contenttext">color: </span>
+                                <span class="propnumtake">"green",</span><br>
+                                
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="propcss">});</span>
+                            </p>
+
+                            
+                            
+                            <p class="my-0">
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="propcss">$</span>
+                                <span class="propcss">(</span>
+                                <span class="whitecontent">'</span>
+                                <span class="content">p</span>
+                                <span class="whitecontent">'</span>
+                                <span class="propcss">)</span>
+                                <span class="propcss">.css</span>
+                                <span class="propcss">({</span><br>
+                                <span class="">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="contenttext">margin: </span>
+                                <span class="propnumtake">"5px",</span>
+                                <span class="contenttext">padding: </span>
+                                <span class="propnumtake">"10px",</span>
+                                <span class="contenttext">color: </span>
+                                <span class="propnumtake">"red",</span><br>
+                                
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="propcss">});</span>
+                            </p>
+
+                            
+                            
+                            <p class="my-0">
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="propcss">$</span>
+                                <span class="propcss">(</span>
+                                <span class="whitecontent">'</span>
+                                <span class="content">.colortext</span>
+                                <span class="whitecontent">'</span>
+                                <span class="propcss">)</span>
+                                <span class="propcss">.css</span>
+                                <span class="propcss">({</span><br>
+                                <span class="">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="contenttext">margin: </span>
+                                <span class="propnumtake">"5px",</span>
+                                <span class="contenttext">padding: </span>
+                                <span class="propnumtake">"10px",</span>
+                                <span class="contenttext">color: </span>
+                                <span class="propnumtake">"blue",</span><br>
+                                
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="propcss">});</span>
+                            </p>
+
+                            
+                            <p class="my-1">   
+                                <span class="">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">/script</span>
+                                <span class="textcolorwhite">&gt;</span>
+                            </p>
+                            
+                            <p class="my-1">   
+                                <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">/body</span>
+                                <span class="textcolorwhite">&gt;</span>
+                            </p>
+                            {% comment %} {/* head end */} {% endcomment %}
+                            <p class="my-1 nbspcss1">
+                                <span class="textcolorwhite">&lt;</span>
+                                <span class="variable">/html</span>
+                                <span class="textcolorwhite">&gt;</span>
+                            </p>
+                            </div>
+
+                        </div>
+                        <div class="my-5 "></div>
+    </div>
+    {% comment %} content_a off {% endcomment %}
+
+    <div class="col-xxl-1 col-lg-1 col-md-0 col-sm-0">
+
+    </div>
+</div>
+
+
+{% endblock contentb %}
+

@@ -1,0 +1,254 @@
+
+{% extends 'WebDesignContent.html' %}
+
+
+{% block seotag %}
+                        <title> Get Start KaliLinux	| HackingTheGroup.com</title>
+                        <meta charset="UTF-8"/>
+                        <meta name="description" content="Anchors  use for URL link or other any WebPage. Specifies the destination address. It can be an absolute or relative URL, or the name of an anchor."/>
+                        <meta name="keywords" content="HTML, CSS, JavaScript, php, python, c"/>
+                        <meta name="author" content="Ankit"/>
+                        <link rel="icon" href="/img/hacker.jpg"/>
+{% endblock seotag %}
+
+
+
+{% block contentb %}
+
+<div class="row">
+<div class="col-xxl-11 col-lg-11 col-md-12 col-sm-12">
+
+    <h1 class="h1css my-3">Responsive Navbar</h1>
+						
+						<!-- start////////////////////////////////////////////////////////////////// -->
+					  <h2 class="h2css">Navbar</h2>
+					  <style type="text/css">
+	*{ 
+		margin: 0px;
+		padding: 0px;
+	}
+	.demoul li{ 
+		margin-top: 3px;
+		padding-top: 3px;
+	}
+	
+	@media(min-width: 800px){
+			.demoul li:hover{ 
+				background: gray; 
+				height: 39px;
+			}
+			.active{ 
+				background: #18d5bb; 
+				height: 39px;
+			}
+			.demohome{ 
+				visibility: hidden;
+			}
+			.demoa{ 
+				height: 0px;
+			}
+			.demonav{
+				width: auto;
+				right: 5px;
+				position: all;
+				background: black;
+				height: 45px;
+			}
+			.demoheader{ 
+				position: absolute;
+				color: white;
+				font-size: 20px;
+				padding: 8px;
+			}
+			.demoul{ 
+				float: right;
+				padding-left:  5px;
+				padding-right:  5px;
+				padding-top:  0px;
+				visibility: show;
+			}
+			.demoul li{ 
+				display: inline-block;
+				color: white; 
+			    font-size: 20px;
+			    text-decoration-style: none;
+			    padding-left: 5px; 
+			    padding-right: 5px;
+			    margin-left: 5px;
+			    margin-right: 5px;
+			    text-decoration-line: none;
+			    text-align: center;
+			    cursor: pointer; 
+			    font-family: 'Open Sans Condensed', serif;
+			}
+		
+			.demonav button{  
+	 			visibility: hidden;
+			} 
+
+	}
+
+	@media(max-width: 800px){
+			.demoul{   
+				padding-top: 50px;
+				display:  none;
+			}
+			.active{ 
+				background: #18d5bb; 
+			}
+			.activeb:hover{ 
+				background: gray;
+			}
+		 	.demoa{ 
+				height: 165px;
+			}
+			.demonav{
+				width: auto;
+				right: 5px;
+				position: all;
+				background: black;
+				height: 39px;
+			}
+			.demoheader{ 
+				position: absolute;
+				color: white;
+				font-size: 20px;
+				padding: 8px;
+			}
+			.demoul{ 
+				float: right;
+				padding: 5px;
+			}
+			.demoul li{ 
+				display: block;
+				color: white; 
+			    font-size: 20px;
+			    text-decoration-style: none;
+			    padding-left: 5px;
+			    padding-right: 5px;
+			    margin-left: 5px;
+			    margin-right: 5px;
+			    text-decoration-line: none;
+			    text-align: center;
+			    cursor: pointer; 
+			    font-family: 'Open Sans Condensed', serif;
+			}
+		 
+			.demoulcss{ 
+				display: block;
+			 	width: auto;
+				height: 150px;
+				width: 300px;
+				background: black; 
+				margin-top: 30px;
+				padding-top: 30px;
+			} 
+			
+	}
+
+		@media(max-width: 450px){ 
+				.demoulcss{ 
+					display: block;
+				 	width: auto;
+				 	margin-top: 29px;
+				 	padding-top: 29px;
+					height: 150px;
+					width: 150px; 
+					background: black;  
+				} 
+		} 
+		@media(max-width: 290px){ 
+				.demoulcss{ 
+					display: flex;
+					position: absolute;
+					z-index: -1;
+					text-align: center;
+					display: block;
+				 	width: auto;
+				 	margin-top: 20px;
+				 	padding-top: 20px;
+					height: 150px;
+					width: 140px; 
+					background: black;  
+				} 
+		} 
+		
+			 
+			
+					 
+</style>
+<body>
+	<nav class="demonav">
+		<header class="demoheader">Nav_bar</header>
+		<i   id="demohome"  onclick="myFunction()" class="fa-2x fas fa-chevron-circle-down demohome" style="color: white; cursor: pointer; padding:5px;	padding-left: 20px; float: right;"></i> 
+		<ul class="demoul" id="demoul">
+			 <li class="active" href="#">Home</li> 
+			 <li class="activeb" href="#">blog</li> 
+			 <li class="activeb" href="#">Service</li> 
+			 <li class="activeb" href="#">Gallary</li> 
+
+		</ul>
+	</nav>
+
+	<script type="text/javascript"> 
+		function myFunction() {
+			var element = document.getElementById("demoul");
+			element.classList.toggle("demoulcss");
+			var hello = document.querySelector(".activeb");
+			hello.classList.toggle("activea");   
+		}
+	</script>
+
+
+						<h2 class="h2css my-4">Navbar code syntax</h2>
+						<h2 class="pcss">HTML Code</h2>
+						<div class="colorplate  p-3 my-5">
+							
+							<div class="tttt">
+								<div class="codetexta4 propcss">
+									
+									<div>
+
+
+										<div>
+										<tr><td class="haa"><span class="html-doctype">&lt;!DOCTYPE html&gt;</span></td></tr>
+										</div>
+
+
+
+										<div class="">
+										<tr><span class="html-tag ">&lt;<span>html<span><span class="">&gt;</span></span></tr><br>
+										</div>
+
+										<div>&lt;head&gt;</div>
+
+										<div>&nbsp;  &nbsp; &lt;title&gt;<span>&nbsp;  &nbsp; &lt;/title&gt;</span></div><br>
+
+										<div>&lt;/head&gt;</div>
+
+
+
+										<div class="">
+												<tr><span class="html-tag">&lt;/<span>html<span><span >&gt;</span></span><span class="ha1  html-end-of-file"></span></tr><br>
+										</div>
+
+
+									</div>
+									
+								</div>
+							</div>
+							
+						</div>
+
+
+
+
+                        
+</div>
+<div class="col-xxl-1 col-lg-1 col-md-0 col-sm-0">
+</div>
+</div>
+
+
+
+{% endblock contentb %}

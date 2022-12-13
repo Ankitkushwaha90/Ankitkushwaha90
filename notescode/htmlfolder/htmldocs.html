@@ -1,0 +1,176 @@
+
+{% extends 'htmlcontent.html' %}
+
+
+{% block seotag %}
+                        <title>Getting started with HTML | HackingWorld.com</title>
+                        <meta charset="UTF-8"/>
+                        <meta name="description" content="HTML(Hypertext Markup Language) make content of website page.Uses a markup system composed of elements which represent specific content.Markup means show of content of webpage.Visual representations are defined by Cascading Style Sheets(CSS) and realized by browsers.CSS useful for making design."/>
+                        <meta name="keywords" content="HTML, CSS, JavaScript, php, python, c"/>
+                        <meta name="author" content="Ankit"/>
+                        <link rel="icon" href="/img/hacker.jpg"/>
+{% endblock seotag %}
+
+
+
+{% block contentb %}
+                
+                <div class="row px-0 maincontain">
+                    <div class="col-xxl-11 col-lg-11 col-md-12 col-sm-12 " >
+                        <div class="my-5">
+                            <h1 class="h1css  display-5 my-5">Getting started with HTML</h1>
+                            <h2 class="">Introduction</h2>
+                            <p class="pcss my-1">HTML(Hypertext Markup Language) make content of website page. </p>
+                            <p class="pcss my-1"> Uses a markup system composed of elements which represent specific content.Markup means show of content of webpage.Visual representations are defined by Cascading Style Sheets(CSS) and realized by browsers.CSS useful for making design.</p>
+                        </div>
+                        
+                        <div class="my-5"> 
+                            <h2 class="">Creating simple page</h2>
+                            <p class="pcss">Once created, this file can be opened in any web browser.</p>
+                        </div>
+                        {% comment %} {/* start window */} {% endcomment %}
+                        <div class="colorplate  p-3">
+                            <div class="tttt">
+                            <p class="my-1"><span class="textcolorwhite">&lt;</span><span class="doctype">!DOCTYPE</span> <span class="htmlhd">&nbsp;&nbsp;&nbsp;html</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            <p class="my-1"><span class="textcolorwhite">&lt;</span><span class="variable">html</span><span class="content"> lang</span><span class="contenttext">="en"</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            {% comment %} {/* head start */} {% endcomment %}
+                            <p class="my-1"><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">head</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            <p class="my-1"><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">meta</span><span class="content"> charset= </span><span class="contenttext">"UTF-8"</span><span class="textcolorwhite">/&gt;</span>
+                            </p>
+                            <p class="my-1"><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">title</span><span class="textcolorwhite">&gt;</span><span class="textcontent">code</span><span class="textcolorwhite">&lt;</span><span class="variable">/title</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            
+                            <p class="my-1">   <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">/head</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            {% comment %} {/* head end */} {% endcomment %}
+
+                            {% comment %} {/* head start */} {% endcomment %}
+                            <p class="my-1"><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">body</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            <p class="my-1"><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">h1</span><span class="textcolorwhite">&gt;</span><span class="textcontent">Frist text</span><span class="textcolorwhite">&lt;</span><span class="variable">/h1</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            <p><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">br/</span><span class="textcolorwhite">&gt;</span>
+                             </p>
+                            <p class="my-1"><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">p</span><span class="textcolorwhite">&gt;</span><span class="textcontent">Hello! World</span><span class="textcolorwhite">&lt;</span><span class="variable">/p</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            
+                            <p class="my-1">   <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">/body</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            {% comment %} {/* head end */} {% endcomment %}
+                            <p class="my-1 nbspcss1"><span class="textcolorwhite">&lt;</span><span class="variable">/html</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            </div>
+
+                        </div>
+                        {% comment %} {/* window end tag */} {% endcomment %}
+                        <div class="my-5">
+                            <h2 class="h2css my-3">Output:</h2>
+                            
+                        </div>
+                        <div class="outputbox">
+                            <h1>Frist text</h1>
+                            <br/>
+                            <p>Hello! World</p>
+                        </div>
+                            {% comment %} {/* start use tag */} {% endcomment %}
+                        <div class="mx-1 my-4">
+                            <div class="row ">
+                                <div class="col-xxl-1 col-lg-1 col-md-12 col-sm-12 px-1">
+                                    <h2 class="px-1 h2css">Tag</h2>
+                                </div>
+                                
+                                <div class="col-xxl-11 col-lg-11 col-md-12 col-sm-12 px-1 ">
+                                    <h2 class="px-5 h2css">use</h2>
+                                </div>
+                            </div>
+                            <div class="row ">
+                                <div class="col-xxl-1 col-lg-1 col-md-12 col-sm-12 px-1">
+                                    <h6 class="py-1">&lt;!DOCTYPE&gt;</h6>
+                                </div>
+                                
+                                <div class="col-xxl-11 col-lg-11 col-md-12 col-sm-12 px-1 ">
+                                    <p class="px-5 pcss">Use this tag in HTML5. Show this document of window of browser. </p>
+                                </div>
+                            </div>
+                            <div class="row ">
+                                <div class="col-xxl-1 col-lg-1 col-md-12 col-sm-12 px-1">
+                                    <h6 class="py-1">&lt;html&gt;</h6>
+                                </div>
+                                
+                                <div class="col-xxl-11 col-lg-11 col-md-12 col-sm-12 px-1 ">
+                                    <p class="pcss px-5"> All tag use in html tag</p>
+                                </div>
+                            </div>
+                            <div class="row ">
+                                <div class="col-xxl-1 col-lg-1 col-md-12 col-sm-12 px-1">
+                                    <h6 class="py-1">&lt;head&gt;</h6>
+                                </div>
+                                
+                                <div class="col-xxl-11 col-lg-11 col-md-12 col-sm-12 px-1 ">
+                                    <p class="pcss px-5"> All tag use in html tag</p>
+                                </div>
+                            </div>
+                            <div class="row ">
+                                <div class="col-xxl-1 col-lg-1 col-md-12 col-sm-12 px-1">
+                                    <h6 class="py-1">&lt;Meta&gt;</h6>
+                                </div>
+                                
+                                <div class="col-xxl-11 col-lg-11 col-md-12 col-sm-12 px-1 ">
+                                    <p class="pcss px-5"> All tag use in html tag</p>
+                                </div>
+                            </div>
+                            <div class="row ">
+                                <div class="col-xxl-1 col-lg-1 col-md-12 col-sm-12 px-1">
+                                    <h6 class="py-1">&lt;title&gt;</h6>
+                                </div>
+                                
+                                <div class="col-xxl-11 col-lg-11 col-md-12 col-sm-12 px-1 ">
+                                    <p class="pcss px-5"> Title tag is use for give title name of web page.</p>
+                                </div>
+                            </div>
+                            <div class="row ">
+                                <div class="col-xxl-1 col-lg-1 col-md-12 col-sm-12 px-1">
+                                    <h6 class="py-1">&lt;body&gt;</h6>
+                                </div>
+                                
+                                <div class="col-xxl-11 col-lg-11 col-md-12 col-sm-12 px-1 ">
+                                    <p class="pcss px-5"> Body tag is use for content of web page . which that is show of  user. </p>
+                                </div>
+                            </div>
+                            <div class="row ">
+                                <div class="col-xxl-1 col-lg-1 col-md-12 col-sm-12 px-1">
+                                    <h6 class="py-1">&lt;h1&gt;</h6>
+                                </div>
+                                
+                                <div class="col-xxl-11 col-lg-11 col-md-12 col-sm-12 px-1 ">
+                                    <p class="pcss px-5">h1 tag is use for title of paragraph .</p>
+                                </div>
+                            </div>
+                            <div class="row ">
+                                <div class="col-xxl-1 col-lg-1 col-md-12 col-sm-12 px-1">
+                                    <h6 class="py-1">&lt;p&gt;</h6>
+                                </div>
+                                
+                                <div class="col-xxl-11 col-lg-11 col-md-12 col-sm-12 px-1 ">
+                                    <p class="pcss px-5"> p tag is use for any write of paragraph. </p>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    {% comment %} {/* end page */} {% endcomment %}
+                    <div class="my-5 ">
+                            <h2 class=" ">Element insight</h2>
+                            <p class="pcss">The &lt;p&gt; This is use for common paragraph.</p>
+                            <p class="pcss">&lt;p&gt;  opent tag for starting.</p>
+                            <p class="pcss">&lt;/p&gt; close tag for ending.</p>
+                            <p class="pcss"> slash (/) use for closing tag. </p>
+                        </div>
+                    </div>
+
+                </div>
+
+
+{% endblock contentb %}

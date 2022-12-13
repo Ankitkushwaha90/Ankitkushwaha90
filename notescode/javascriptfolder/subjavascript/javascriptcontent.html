@@ -1,0 +1,56 @@
+{% extends 'notescode.html' %}
+
+
+
+{% block seotag %}
+    {% load static %}
+    <link rel="stylesheet" href="{% static '/static/nbsp.css' %} ">
+  
+    
+
+{% endblock seotag %}
+
+
+{% block tagelement %}
+<style>
+.liveactiveJavaScriptcss{
+    background: #18D5BB!important;
+    color: white!important;
+}
+</style>
+{% endblock tagelement%}
+
+{% block body %}
+<div class="row mx-0 px-0">
+    <div class="mx-0 px-0 col-xxl-2 col-lg-2  col-md-0 col-sm-0 closebtnenter this976px submeno bghalkared mx-0"  style="background: #1b3956!important;" >
+
+        
+        <div class="text-light "  style=" position: sticky; top: 30px; background: #1b3956!important; " >
+        {% comment %} <i class="fa-2x fas fa-times subbtn " id="closebtn" style=""></i> {% endcomment %}
+            <div class="my-5 p-0 px-0 text-center showhidden1 zindexsub "   style="background: #1b3956!important;"   >
+            
+               <h6 class=" text-center  py-3">JavaScript</h6>
+               <div class="pl-0 ">
+                   <ul class="pl-0" style="padding-left: "0px!important"; ">
+                       <li class="d-block liveactivecsshover p-1 m-0"><a class="nav-link text-light p-0 m-0" href="Introduction_of_JAVASCRIPT">Introduction</a></li>
+                       <li class="d-block liveactivecsshover p-1 m-0"><a class="nav-link text-light p-0 m-0" href="use_of_variable">Variable</a></li>
+                       <li class="d-block liveactivecsshover p-1 m-0"><a class="nav-link text-light p-0 m-0" href="commentsjs">Comments</a></li>
+                       <li class="d-block liveactivecsshover p-1 m-0"><a class="nav-link text-light p-0 m-0" href="dom">Dom</a></li>
+                       <li class="d-block liveactivecsshover p-1 m-0"><a class="nav-link text-light p-0 m-0" href="prompt">Prompt</a></li>
+                       <li class="d-block liveactivecsshover p-1 m-0"><a class="nav-link text-light p-0 m-0" href="confirm">Confirm</a></li>
+                       <li class="d-block liveactivecsshover p-1 m-0"><a class="nav-link text-light p-0 m-0" href="createelement">CreateElement</a></li>
+                       <li class="d-block liveactivecsshover p-1 m-0"><a class="nav-link text-light p-0 m-0" href="AddHTMLcode">AddHTMLcode</a></li>
+                       
+                    </ul>
+               </div>
+            </div>
+        </div>
+           
+    </div>
+
+
+    <div class="col-xxl-10 col-lg-10 col-md-12 col-sm-12">
+        {% block contentb %}{% endblock contentb %}
+    </div>
+</div>
+{% endblock body %}

@@ -1,0 +1,114 @@
+
+{% extends 'htmlcontent.html' %}
+
+
+{% block seotag %}
+                        <title>Anchors and Hyperlinks | HackingWorld.com</title>
+                        <meta charset="UTF-8"/>
+                        <meta name="description" content="'href' is use for reder link of page. for example : 
+                        &gt;a   href="Getstarted.com"&lt;Welcome  :)  &gt;/a&lt;"
+                        To denote that this link to an external website, you can use the external link type.
+                        &gt;a   href="Getstarted.com" rel="external"&lt;Hey    :)    &gt;/a&lt;/>
+                        <meta name="keywords" content="HTML, CSS, JavaScript, php, python, c"/>
+                        <meta name="author" content="Ankit"/>
+                        <link rel="icon" href="/img/hacker.jpg"/>
+{% endblock seotag %}
+
+
+
+
+{% block contentb %}
+
+<div class="row">
+<div class="col-xxl-11 col-lg-11 col-md-12 col-sm-12">
+
+                        <div class="my-5">
+                            <h1 class="display-5 my-5">Anchors and Hyperlinks</h1>
+                            
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col-xxl-4 col-lg-3 col-md-3 col-sm-12">
+                                <h2 class="h2css">Parameter</h2>
+                            </div>
+                            <div class="col-xxl-8 col-lg-9 col-md-9 col-sm-12">
+                                <h2 class="h2css">Details</h2>
+                            </div>
+
+                            <div class="col-xxl-4 col-lg-3 col-md-3 col-sm-12">
+                                <p class="pcss">href</p>
+                            </div>
+                            <div class="col-xxl-8 col-lg-9 col-md-9 col-sm-12">
+                                <p class="pcss">'href' is use for reder link of page. for example :<br/> <span class="fortextwhite">&lt;</span><span class="variable">a</span>&nbsp;&nbsp; <span class="content">href</span><span class="contenttext">="Getstarted.com"</span><span class="fortextwhite">&gt;</span>Welcome &nbsp;:) &nbsp;<span class="fortextwhite">&lt;</span><span class="variable">/a</span><span class="fortextwhite">&gt;</span>  </p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xxl-4 col-lg-3 col-md-3 col-sm-12">
+                                <p class="pcss">rel</p>
+                            </div>
+                            <div class="col-xxl-8 col-lg-9 col-md-9 col-sm-12">
+                                <p class="pcss">To denote that this link to an external website, you can use the external link type.<br/> <span class="fortextwhite">&lt;</span><span class="variable">a</span>&nbsp;&nbsp; <span class="content">href</span><span class="contenttext">="Getstarted.com"</span> <span class="content">rel</span><span class="contenttext">="external"</span><span class="fortextwhite">&gt;</span>Hey &nbsp; &nbsp;:) &nbsp; &nbsp;<span class="fortextwhite">&lt;</span><span class="variable">/a</span><span class="fortextwhite">&gt;</span> </p>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-xxl-4 col-lg-3 col-md-3 col-sm-12">
+                                <p class="pcss">target</p>
+                            </div>
+                            <div class="col-xxl-8 col-lg-9 col-md-9 col-sm-12">
+                                <p class="pcss"> Open link in new tab / window<br/> <span class="fortextwhite">&lt;</span><span class="variable">a</span>&nbsp;&nbsp; <span class="content">href</span><span class="contenttext">="Getstarted.com"</span> <span class="content">target</span><span class="contenttext">="_blank"</span><span class="fortextwhite">&gt;</span>Hey &nbsp; &nbsp;:) &nbsp; &nbsp;<span class="fortextwhite">&lt;</span><span class="variable">/a</span><span class="fortextwhite">&gt;</span> </p>
+                            </div>
+                        </div>
+                        <div class="my-5"> 
+                            <h2>For Example </h2>
+                        </div>
+                        {% comment %} {/* window start  */} {% endcomment %}
+                        <div class="colorplate  p-3">
+                            <div class="tttt">
+                            <p class="my-1"><span class="textcolorwhite">&lt;</span><span class="doctype">!DOCTYPE</span> <span class="htmlhd">&nbsp;&nbsp;&nbsp;html</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            <p class="my-1"><span class="textcolorwhite">&lt;</span><span class="variable">html</span><span class="content"> lang</span><span class="contenttext">="en"</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+
+                            {% comment %} {/* head start */} {% endcomment %}
+                            <p class="my-1"><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">body</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            <p class="my-1"><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">a</span>&nbsp;&nbsp; <span class="content">href</span><span class="contenttext">="Getstarted.com"</span><span class="fortextwhite">&gt;</span><span class="textcontent">Welcome &nbsp;:) &nbsp;</span><span class="fortextwhite">&lt;</span><span class="variable">/a</span><span class="fortextwhite">&gt;</span>
+                            </p>
+                            <p><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">br/</span><span class="textcolorwhite">&gt;</span>
+                             </p>
+                            <p class="my-1"><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">a</span>&nbsp;&nbsp; <span class="content">href</span><span class="contenttext">="Getstarted.com"</span><span class="textcolorwhite">&gt;</span><span class="textcontent">Welcome &nbsp;:) &nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">/a</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            <p><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">br/</span><span class="textcolorwhite">&gt;</span>
+                             </p>
+                            <p class="my-1">   <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">/body</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            {% comment %} {/* head end */} {% endcomment %}
+                            <p class="my-1 nbspcss1"><span class="textcolorwhite">&lt;</span><span class="variable">/html</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                        </div>
+
+                        </div>
+                        {% comment %} {/* window end */} {% endcomment %}
+                        <div class="my-5">
+                            <h2 class="h2css">Output: </h2>
+                        </div>
+                        <div class="outputbox">
+                        <a  href="Getstarted.com">Welcome  :)  </a>
+
+                        <br/>
+
+                        <a  href="Getstarted.com">Welcome  :)  </a>
+                        </div>
+                        
+                            {% comment %} {/* start tag */} {% endcomment %}
+                        <div class="my-5 py-3"></div>
+                            {% comment %} {/* end tag */} {% endcomment %}
+</div>
+<div class="col-xxl-1 col-lg-1 col-md-0 col-sm-0">
+</div>
+</div>
+
+
+
+{% endblock contentb %}

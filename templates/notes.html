@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
+  {% comment %} {% load static %}
+    <link rel="stylesheet" href="{% static 'nbsp.css' %} "> {% endcomment %}
+  <title>HackingWorld</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
+  </head>
+  {% block seotag %}{% endblock seotag %}
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark position-sticky  top-0 bg-dark py-0">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mx-auto mb-2 mb-lg-0 text-uppercase">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">HTML</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">CSS</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">JavaScript</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">php</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">python</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">c</a>
+        </li>
+        
+       
+      </ul>
+      <form class="d-flex">
+        <a  class="btn btn-outline-success mx-5" href="/">HOME</a>
+      </form>
+    </div>
+  </div>
+</nav>
+{% block body %}
+
+{% endblock body %}
+<div class="bg-dark" style="">
+    <div class="container" >
+        <div class="row py-5 text-light   responsivecontainer mx-auto">
+            <div class="col-xxl-8 col-lg-8 col-md-12 col-sm-12">
+                <div class="col-lg-12 col-md-12 col-sm-12 d-flex">
+                    <div class="col-lg-12 col-md-12 col-sm-12   d-flex">
+                        <div class="mx-1"><h6>1060 Comments </h6></div>
+                        <div class="mx-3"><h6> Instagram </h6></div>
+                        <div class="mx-1"><h6 class="showhidden">Disqus's Privacy Policy </h6></div>
+                    </div>
+                </div>
+
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                        <div class="column ms-auto">
+                            <div class="">Login</div>
+                            <hr class="w-100 mx-auto"/>
+                        </div>
+                    </div>
+                <div class="d-flex col-12 col-md-12 col-sm-12">
+                    <div class="recommend"><p class="secondary">Recommend&nbsp;85</p></div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-2 col-md-2 col-sm-12 messageboxhidden">
+                        <div class="img m-3 ">
+                        <i class="fa-3x fas fa-user"></i>
+                        </div>
+                    </div>
+                    <div class="col-lg-10 col-md-12 col-sm-12 ">
+                        <div class="form-group my-2">
+                            <textarea class="form-control" rows="4  " id="comment" placeholder="Enter your message"></textarea>
+                        </div>
+                    </div>
+                </div>
+                <div class="loginwith">
+                    <p class="">Log In With</p>
+                </div>
+                <div class="mb-3">
+                    <input type="name" class="form-control" id="exampleFormControlInput1" placeholder="Your name"/>
+                </div>
+                <div class="">
+                    <button class="btn btn-outline-info">Send</button>
+                </div>
+            </div>
+
+
+
+
+
+            <div class="col-xxl-4 col-lg-4 showhidden">
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js" integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/" crossorigin="anonymous"></script>
+
+</body>
+</html>

@@ -1,0 +1,76 @@
+
+{% extends 'sqlContent.html' %}
+
+
+{% block seotag %}
+                        <title> | ProgrammingGeeks</title>
+                        <meta charset="UTF-8"/>
+                        <meta name="description" content="Anchors  use for URL link or other any WebPage. Specifies the destination address. It can be an absolute or relative URL, or the name of an anchor."/>
+                        <meta name="keywords" content="HTML, CSS, JavaScript, php, python, c"/>
+                        <meta name="author" content="Ankit"/>
+                        <link rel="icon" href="/img/hacker.jpg"/>
+{% endblock seotag %}
+
+
+
+{% block contentb %}
+
+<div class="row">
+<div class="col-xxl-11 col-lg-11 col-md-12 col-sm-12">
+    
+    <h1 class="h1css">Create table command  in SQL</h1>
+						
+    <div class="box_text">
+        <p class="pacss">create table sytax</p>
+        <p class="pacssa">create table &gt;table_Name&lt;</p>
+        <p class="pacssa">(</p>
+        <p class="pacssa">name varchar(255),</p>
+        <p class="pacssa">class int,</p>
+        <p class="pacssa">Roll_no int,</p>
+        <p class="pacssa">School_name varchar(255)</p>
+        <p class="pacssa">);</p>
+    </div>
+
+
+    <!-- /////////////////////////////////////start div2a////////////////////////////// -->
+
+
+    <h2 class="h2css">CREATE TABLE command</h2>
+    <div class="colorplate my-5 p-3">
+        
+        <div class="tttt">
+            <div class="propcss">
+                <div class="boxsqlrun">
+                    
+
+MariaDB [ankit]> create table students<br>
+-> (<br>
+-> name varchar(255),<br>
+-> class int,<br>
+-> Roll_no int,<br>
+-> School_name varchar(255)<br>
+-> );<br>
+Query OK, 0 rows affected (3.446 sec)<br><br>
+
+MariaDB [ankit]><br>
+
+                </div>
+    
+            </div>
+        </div>
+        
+    </div>
+				
+
+                        
+</div>
+<div class="col-xxl-1 col-lg-1 col-md-0 col-sm-0">
+
+    
+    
+</div>
+</div>
+
+
+
+{% endblock contentb %}

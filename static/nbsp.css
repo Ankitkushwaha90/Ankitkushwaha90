@@ -1,0 +1,308 @@
+/* subnav */
+.navhover:hover{
+    background: gray;
+    color: white;
+  }
+
+  
+  .adjusttext1{
+    text-decoration: none;
+    font-size: 2.0rem;
+}
+  .adjustcontent{display: grid; place-items: center;  width: 30.0rem; height: 4.0rem;}
+    .adjusttext{font-size: 3.4rem;}
+  .headercss{
+      z-index: 1000000000;
+      height: 4.0rem;
+      width: 100%;
+      background-color: white;
+  }
+  .hoverpublish{
+   color: #1b3956; display: grid; place-items: center; width: 4rem; height: 4rem; 
+  }
+  .hoverpublish:hover{
+      background:#1b3956!important;
+      color: #17A2B8!important;
+      cursor:pointer;
+  }
+  .liveactivecsshover:hover{
+                      background:gray;
+                      color: white;
+                  }
+.herdertxt{
+    color: #1b3956; font-size: 2.0rem; text-decoration: none; 
+}
+.navlinka{
+    font-size: 20px;
+}
+
+@media (min-width: 1000px) {
+    
+    .subbtn{
+        display: none!important;
+    
+    }
+    .maincontain{
+        margin: 0 10px 0 10px!important;
+    }
+}
+
+/* start script  */
+.gray{
+    color: gray;
+}
+.purple{
+    color: purple;
+    font-size: 17px;
+}
+.constjs, .varjs, .letjs{
+    color:#17A2B8;
+    font-size: 17px;
+}
+.conentvarijs{
+    color: #17A2B0;
+    font-size: 17px;
+}
+/* end script  */
+
+
+/* css color */
+
+.varicss{
+    color: #00A19D;
+    font-size: 17px;
+    text-indent: 0%;
+}
+.commentcss{
+    color: #00A19D;
+    font-size: 17px;
+}
+.propcss{
+    color: #98c5c4;
+    font-size: 17px;
+}
+.propdark{
+    color: #6eb0ce;
+    font-size: 17px;
+}
+.propvaritake{
+    color: #00A19D;
+    font-size: 17px;
+}
+.borderra{
+    border-radius: 1rem;
+}
+.propnumtake{
+    color: #00A19D;
+    font-size: 17px;
+}
+.commacss, .whitecontent{
+    color: white;
+    font-size: 17px;
+}
+/* end css */
+.pcss{
+    font-size: 17px;
+    color:#4c5258;
+}
+.h2css{
+    color: rgba(2, 1, 1, 0.959);
+    font-size: 25px;
+}
+.colorplate{
+    background-color: #212121!important;
+    border-radius: 20px;
+    /* box-shadow: 3px 0px 6px 3px rgb(10, 218, 45); */
+}
+.doctype{
+    color: #1DB9C3;
+    
+    font-size: 17px;
+}
+.htmlhd{
+    color: #C6D57E;
+    font-size: 17px;
+}
+.textcontent{
+    color: #00A19D;
+    font-size: 17px;
+}
+.variable{
+    color: #1DB9C3;
+    font-size: 17px;
+}
+.content{
+    color: #C6D57E;
+    
+    font-size: 17px;
+}
+.contenttext{
+    color: #B1E693;
+    font-size: 17px;
+}
+.gray17{
+    color: gray;
+    font-size: 17px;
+}
+.fortextwhite{
+    color: green;
+    font-size: 20px;
+}
+.textcolorwhite{
+    font-size: 16px!important;
+    color: white;
+}
+.outputbox{
+    padding: 50px 10px;
+    border: 1px solid #212121;
+}
+@media (max-width: 991px) {
+    .adjustcontent{display: grid; place-items: center;  width: 30.0rem; height: 3.5rem;}
+    .showhidden{
+        display: none;
+    }
+}
+
+/* end                                 start                     */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display:wght@400&display=swap');
+      p{font-family: 'Noto Sans Display', sans-serif; font-size: 15px;}
+
+.zindexnav{
+    z-index: 10!important;
+}
+.zindexsub{
+    z-index: 1!important;
+}
+.tttt{
+    font:bolder!important;
+    font-size: 17px;
+}
+
+@media (mix-width: 991px) {
+    .adjusttext1{
+        text-decoration: none;
+        font-size: 2.0rem;
+    }
+    .showhidden{
+        display: none!important;
+    }
+    .adjustcontent{display: grid; place-items: center;  width: 29.0rem; height: 3.5rem;}
+    
+}
+@media (min-width: 991px) {
+    .showhiddenmax{
+        display: none!important;
+    }
+    .responsivecontainer{
+        margin: 0 50px 50px 50px!important;
+    }
+}
+
+@media (max-width: 1000px) {
+    .closebtn{
+        display: none;
+    }
+    .subbtn{
+        display: show!important;
+    }
+    .this976px{
+        position: fixed;
+        left: -100%;
+        width: 100px;
+    }
+    .bghalkared{
+        font-size: 20px;
+        top:0px;
+    }
+    .btnclosesub{
+        content: "";
+        color:rgba(255, 255, 255, 0.959);
+        cursor: pointer;
+        padding: 90px;
+        
+    }
+    .show2{
+        left: 0;
+    }
+}
+@media (max-width: 550px) {
+    .adjusttext1{
+        text-decoration: none;
+        font-size: 1.5rem;
+    }
+    .herdertxt{
+        color: #1b3956; font-size: 1.6rem; text-decoration: none; 
+    }
+    .hoverpublish{
+        color: white;  display: grid; place-items: center; height: 3.7rem; width: 3.0rem; 
+       }
+       .hoverpublish:hover{
+           color: #1b3956!important;
+           cursor:pointer;
+       }
+       .headercss{
+           height: 3.0rem;
+           width: 3.0rem;
+       }
+       nav{
+           width: 100%;
+       }
+ 
+}
+@media (max-width: 500px) {
+    .adjusttext1{
+        text-decoration: none;
+        font-size: 1.4rem;
+    }
+    .adjustcontent{display: grid; place-items: center;  width: 20.0rem; height: 3.0rem;}
+    .adjusttext{font-size: 2.5rem;}
+    .messageboxhidden{
+        display: none;
+    }
+}
+
+@media (min-width: 491px) {
+    .adjustcontent{display: grid; place-items: center;  width: 14.0rem; height: 2.0rem;}
+    .adjusttext{font-size: 2.0rem;}
+    .responsivecontainer{
+        margin: 20px!important;
+    }
+}
+@media (max-width: 400px) {
+    .adjusttext1{
+        text-decoration: none;
+        font-size: 1.3rem!important;
+    }
+    .adjustcontent{display: grid; place-items: center;  width: 10.0rem; height: 1.7rem;}
+    .adjusttext{font-size: 2.0rem;}
+    .herdertxt{
+        color: #1b3956; font-size: 1.2rem; text-decoration: none; 
+    }
+    .hoverpublish{
+        color: white; background: none; display: grid; place-items: center; height: 3.0rem; width: 2.0rem; 
+       }
+       .hoverpublish:hover{
+           background: #18D5BB!important;
+           color: white!important;
+           cursor:pointer;
+       }
+       .headercss{
+           height: 3.0rem;
+           width: 3.0rem;
+       }
+       .hoverpublish i{
+           font-size: 1.6;
+       }
+       nav{
+           width: 100%;
+       }
+ 
+}
+@media (max-width: 350px) {
+    .adjusttext1{
+        text-decoration: none;
+        font-size: 1.0rem!important;
+    }
+}

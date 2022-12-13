@@ -1,0 +1,82 @@
+
+
+.operators_Css{
+margin: 0px;
+padding: 0px;
+display: grid;
+place-items: center;
+}
+.boxoperators_Css{
+background: #2a3444;
+border-radius: 0px;
+height: auto;
+width: 100%;
+box-shadow: 0px 10px 20px -6px blue;
+border: 1px solid black;
+margin-bottom: 50px;
+margin-top:  20px;
+} 
+
+.boxgrid1{
+margin: 0px;
+padding: 2px;
+border: 2px solid #aaa; 
+width: 99%;
+height: auto;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+grid-template-rows: auto;
+}
+.boxgrid1 h1{
+color: green;
+text-align: center;
+font-size: 20px ;
+font-family: 'Font Awesome 5 Free';
+padding-top:  5px;
+}.boxgrid2{
+margin: 0px;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+grid-template-rows: auto;
+padding: 2px;
+/*border: 2px solid #aaa;*/ 
+width: 99%;
+height: auto;
+}.boxgrid21{
+margin: 0px;
+
+display: grid;
+grid-template-columns: 1fr 1fr;
+grid-template-rows: auto;
+padding: 2px;
+/*border: 2px solid #aaa;*/ 
+width: 99%;
+height: 45px;
+}
+.boxgrid2 h1{
+padding-top:  10px;
+padding-bottom:   10px;
+color: white;
+text-align: center;
+font-size: 17px ; 
+font-family: 'Font Awesome 5 Free';
+} 
+.boxgridbtn a{
+cursor: pointer;
+padding-top:  10px;
+padding-bottom:   10px;
+color: white;
+text-align: center;
+font-size: 17px ;
+font-family: 'Font Awesome 5 Free';
+}
+.boxgridbtn a:hover{
+cursor: pointer;
+padding-top:  10px;
+padding-bottom:   10px;
+color: gray;
+text-align: center;
+font-size: 17px ;
+font-family: 'Font Awesome 5 Free';
+}
+

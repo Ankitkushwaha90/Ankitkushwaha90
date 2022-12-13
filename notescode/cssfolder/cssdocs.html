@@ -1,0 +1,142 @@
+{% extends 'csscontent.html' %}
+
+
+{% block seotag %}
+                        <title> | ProgrammingGeeks</title>
+                        <meta charset="UTF-8"/>
+                        <meta name="description" content="Anchors  use for URL link or other any WebPage. Specifies the destination address. It can be an absolute or relative URL, or the name of an anchor."/>
+                        
+{% endblock seotag %}
+
+
+{% block contentb %}
+<div class="row">
+
+    <div class="col-xxl-11 col-lg-11 col-md-12 col-sm-12">
+          <div class="my-5">
+                            <h6 class="display-6">Getting started with CSS</h6>
+                        </div>
+                        <div class="my3">
+                            <h2 class="h2css"> External Stylesheet</h2>
+                            <p class="pcss">
+                                <span class="fortextwhite">&lt;</span><span class="variable">link</span>
+                                <span class="">&nbsp;</span>
+                                <span class="content">rel=</span>
+                                <span class="contenttext">"stylesheet"</span>
+                                &nbsp;<span class="content">&nbsp;href=</span>
+                                <span class="contenttext">"style.css"</span>
+                                &nbsp;<span class="fortextwhite">/&gt;</span>
+                            </p>
+                        </div>
+                        <p class="pcss">href='style.css' this is use for exact folder with html file</p>
+                        <p class="pcss">href="css/style.css" this is for type for entery folder with folder name understanding example</p>
+                        <p class="pcss">href='./../style.css' this is use for one folder from out.</p>
+                        <p class="pcss">href='./../../style.css' this is use for two folder from out.</p>
+
+
+                        <h2 class="h2css my-5 pt-">HTML code</h2>
+                        {% comment %} {/* start window */} {% endcomment %}
+                        <div class="colorplate  p-3">
+                            <div class="tttt">
+                            <p class="my-1">
+                                <span class="textcolorwhite">&lt;</span><span class="doctype">!DOCTYPE</span> <span class="htmlhd">&nbsp;&nbsp;&nbsp;html</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            <p class="my-1"><span class="textcolorwhite">&lt;</span><span class="variable">html</span><span class="content"> lang</span><span class="contenttext">="en"</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            {% comment %} {/* head start */} {% endcomment %}
+                            <p class="my-1"><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">head</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            <p class="my-1"><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">link</span><span class="">&nbsp;</span><span class="content">rel=</span><span class="contenttext">"stylesheet"</span>&nbsp;<span class="content">&nbsp;href=</span><span class="contenttext">"style.css"</span>&nbsp;<span class="textcolorwhite">/&gt;</span>
+                            </p>
+                            <p class="my-1"><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">meta</span><span class="content"> charset= </span><span class="contenttext">"UTF-8"</span><span class="textcolorwhite">/&gt;</span>
+                            </p>
+                            <p class="my-1"><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">title</span><span class="textcolorwhite">&gt;</span><span class="textcontent">code</span><span class="textcolorwhite">&lt;</span><span class="variable">/title</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            
+                            <p class="my-1">   <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">/head</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            {% comment %} {/* head end */} {% endcomment %}
+
+                            {% comment %} {/* head start */} {% endcomment %}
+                            <p class="my-1"><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">body</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            <p class="my-1"><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">h1</span><span class="textcolorwhite">&gt;</span><span class="textcontent">Frist text</span><span class="textcolorwhite">&lt;</span><span class="variable">/h1</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            <p class="my-1"><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">p</span><span class="textcolorwhite">&gt;</span><span class="textcontent">Hello! World</span><span class="textcolorwhite">&lt;</span><span class="variable">/p</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            
+                            <p class="my-1">   <span class="spangap">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="textcolorwhite">&lt;</span><span class="variable">/body</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            
+                            
+                            <p class="my-1 nbspcss1"><span class="textcolorwhite">&lt;</span><span class="variable">/html</span><span class="textcolorwhite">&gt;</span>
+                            </p>
+                            </div>
+
+                        </div>
+                        {% comment %} {/* window end tag */} {% endcomment %}
+
+                        <h2 class="h2css my-5">CSS code</h2>
+                        <div class="colorplate my-3 p-3">
+                            <div class="tttt tttt2">
+                                <p class="">
+                                    <span class="variable">h1</span><span class="commacss">{</span><br>
+
+                                    <span class="">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                    <span class="propcss">color</span>
+                                    <span class="commacss">:</span>
+                                    <span class="">&nbsp;</span>
+                                    <span class="propvaritake">green</span>
+                                    <span class="commacss">;</span><br>
+
+                                    <span class="">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                    <span class="propcss">text-decoration</span>
+                                    <span class="commacss">:</span>
+                                    <span class="">&nbsp;</span>
+                                    <span class="propvaritake">underline</span>
+                                    <span class="commacss">;</span><br>
+
+                                    <span class="commacss">}</span>
+
+                                        
+                                    </span>
+                                </p>
+
+
+                                <p class="">
+                                    <span class="variable">p</span><span class="commacss">{</span><br>
+
+                                    <span class="">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                    <span class="propcss">font-size</span>
+                                    <span class="commacss">:</span>
+                                    <span class="">&nbsp;</span>
+                                    <span class="propnumtake">25</span>
+                                    <span class="propvaritake">px</span>
+                                    <span class="commacss">;</span><br>
+
+                                    <span class="">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                    <span class="propcss">font-family</span>
+                                    <span class="commacss">:</span>
+                                    <span class="">&nbsp;</span>
+                                    <span class="propvaritake">'Trebuchet MS'</span>
+                                    <span class="commacss">,</span>
+                                    <span class="propvaritake">sans-serif</span>
+                                    <span class="commacss">;</span><br>
+
+                                    <span class="commacss">}</span>
+
+                                        
+                                    </span>
+                                </p>
+                            </div>
+                        </div>
+
+    </div>
+    {% comment %}  {% endcomment %}
+    <div class="col-xxl-1 col-lg-1 col-md-0 col-sm-0">
+
+    </div>
+</div>
+                      
+{% endblock contentb %}
+

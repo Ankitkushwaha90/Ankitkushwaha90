@@ -1,0 +1,54 @@
+{% extends 'base.html' %}
+
+
+{% block title %}
+About
+{% endblock title %}
+
+
+{% block body %}
+<div class="deskback my-0 mx-auto">
+    <div class="d-grid justify-content-center align-item-center pt-5  container">
+        <h3 class="text-center"> Responsive Bootstrap About Us Page Template </h3>
+        <center class="display-6 py-2"> MEET OUR TEAM </center>
+        <p class="text-center py-3  fontfamily container-fluid">{% lorem 1 b random %}</p>
+        <center>
+            <button class="btn-outline-dark text-center py-2 px-3 m-3"><strong>CONTACT US</strong></button>
+        </center>
+    </div>
+    
+    
+</div>
+
+<div class="card text-center">
+  <div class="card-header">
+    Featured
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Special title treatment</h5>
+    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+  <div class="card-footer text-muted">
+    2 days ago
+  </div>
+</div>
+
+<div class="container-fluid my-5  h-50">
+  <div class="row">
+    <div class="col-xxl-6 col-lg-6 col-md-12 col-sm-12 my-5">
+      <img src="/static/11.png" class="img-fluid" alt="...">
+    </div>
+    <div class="col-xxl-4 col-lg-4 col-md-12 col-sm-12 my-5">
+      <div class="align-middle">
+        <div class="card-body">
+          <h5 class="card-title">Special title treatment</h5>
+          <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+          <a href="" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endblock body %}
