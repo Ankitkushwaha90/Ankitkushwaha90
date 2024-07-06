@@ -1,17 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit kushwaha</h1>
 <h3 align="center">Experienced Ethical Hacker and Web Developer</h3>
-# Welcome to My GitHub Profile
-
-<!-- Blinking text effect -->
-<p style="font-size: 24px; font-weight: bold;">
-  <span style="animation: blinker 1s linear infinite;">Hello, World!</span>
-</p>
-
-<style>
-@keyframes blinker {
-  50% { opacity: 0; }
-}
-</style>
 ![Hacker Animation](https://media.giphy.com/media/U77IPoKMZUpzymdNZh/giphy.gif)
 - 🔭 I’m currently working on **Arduino**
 
