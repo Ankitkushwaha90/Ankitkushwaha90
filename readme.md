@@ -1,4 +1,4 @@
-<h1 align="center" style="color:red;">Hi 👋, I'm Ankit kushwaha</h1>
+<h1 align="center" style="text-color:red;">Hi 👋, I'm Ankit kushwaha</h1>
 <h3 align="center">Experienced Ethical Hacker and Web Developer</h3>
 
 
