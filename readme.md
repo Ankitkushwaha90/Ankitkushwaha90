@@ -2,9 +2,6 @@
 <h3 align="center">Experienced Ethical Hacker and Web Developer</h3>
 
 ![Hacker Animation](https://media.giphy.com/media/U77IPoKMZUpzymdNZh/giphy.gif)
-
-[via GIPHY](https://giphy.com/gifs/cbs-hawaii-five-0-1004-U77IPoKMZUpzymdNZh)
-
 - 🔭 I’m currently working on **Arduino**
 
 - 🌱 I’m currently learning **AI Robotics**
