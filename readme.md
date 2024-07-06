@@ -5,10 +5,6 @@
 
 [via GIPHY](https://giphy.com/gifs/cbs-hawaii-five-0-1004-U77IPoKMZUpzymdNZh)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkushwaha90&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkushwaha90" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitkushwaha90" alt="ankitkushwaha90" /></a> </p>
-
 - 🔭 I’m currently working on **Arduino**
 
 - 🌱 I’m currently learning **AI Robotics**
