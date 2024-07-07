@@ -124,3 +124,23 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkushwaha90&show_icons=true&locale=en" alt="ankitkushwaha90" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkushwaha90&" alt="ankitkushwaha90" /></p>
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=epsit03&layout=compact&theme=dark" align="right" alt = "Most Used Language">
+
+### ```Last week I spent time on:```
+
+
+<!--START_SECTION:waka-->
+
+```text
+JavaScript     ███████████████▒░░░░░░░░░   61.19 %
+React          █████████▒░░░░░░░░░░░░░░░   31.49 %
+Firebase       █████▒░░░░░░░░░░░░░░░░░░░   07.32 %
+```
+
+<!--END_SECTION:waka-->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=epsit03&show_icons=true&theme=gotham" alt="epsit03" /> </p>
+
+Any suggestions/remarks?🥺👉👈<br/>
+Just drop me a [<b>Chitthi</b>](mailto:epsitbhardwaj26@gmail.com)!
+
