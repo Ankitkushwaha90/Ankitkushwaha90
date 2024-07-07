@@ -3,7 +3,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=15F740&width=400&lines=Ankit+Kushwaha;CSE+Penultimate+Year;Ethical+hacker;Web+Developer;Competitive+Programmer;Web3+enthusiast" alt="Typing SVG" /></a>
 
- <img align="right" alt="GIF" src="https://i.gifer.com/7GSC.gif" width="400" height="320" />
+ <img align="right" alt="GIF" src="7GSC.gif" width="400" height="320" />
    
 - 🔭 I’m currently working on **Arduino**
 
