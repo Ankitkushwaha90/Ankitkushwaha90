@@ -112,13 +112,7 @@
 </table>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/ankitku92285830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/ankitku92285830" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-kushwaha-690650314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-kushwaha-690650314/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100088492355956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100088492355956" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@ankitkushwaha99109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ankitkushwaha99109" height="30" width="40" /></a>
-</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitkushwaha90&show_icons=true&locale=en&layout=compact" alt="ankitkushwaha90" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkushwaha90&show_icons=true&locale=en" alt="ankitkushwaha90" /></p>
@@ -139,7 +133,7 @@ Firebase       █████▒░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=epsit03&show_icons=true&theme=gotham" alt="epsit03" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ankitkushwaha90&show_icons=true&theme=gotham" alt="ankitkushwaha90" /> </p>
 
 Any suggestions/remarks?🥺👉👈<br/>
 Just drop me a [<b>Chitthi</b>](mailto:epsitbhardwaj26@gmail.com)!
