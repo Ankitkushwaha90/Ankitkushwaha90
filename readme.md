@@ -5,9 +5,9 @@
 
  <img align="right" alt="GIF" src="7GSC.gif" width="400" height="320" />
    
-- 🔭 I’m currently working on **Arduino**
+- 🔭 I’m currently working on **kernel**
 
-- 🌱 I’m currently learning **AI Robotics**
+- 🌱 I’m currently learning **Drivers**
 
 - 👨‍💻 All of my projects are available at [https://web-vite-kappa.vercel.app/](https://web-vite-kappa.vercel.app/)
 
