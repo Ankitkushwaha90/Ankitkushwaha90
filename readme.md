@@ -1,121 +1,76 @@
-<h1 align="center" style="text-color:red;">Hi 👋, I'm Ankit kushwaha</h1>
-<h3 align="center">Working on Ethical Hacker and Web Developer</h3>
+### 🚀 Ankit Kushwaha | AI/ML, Cybersecurity & Reverse Engineering Enthusiast  
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=15F740&width=400&lines=Ankit+Kushwaha;CSE+Penultimate+Year;Ethical+hacker;Web+Developer;Competitive+Programmer;Web3+enthusiast" alt="Typing SVG" /></a>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=15F740&width=600&lines=Ethical+Hacker+|+Cybersecurity+Researcher;AI/ML+Developer+|+Reverse+Engineering;Kernel+Driver+Security+Expert;Arduino+&+Embedded+Systems+Enthusiast;Passionate+about+Low-Level+Security)
 
- <img align="right" alt="GIF" src="7GSC.gif" width="400" height="320" />
-   
-- 🔭 I’m currently working on **Arduino**
+---
 
-- 🌱 I’m currently learning **AI Robotic**
+### 🌐 About Me
+- 🛠 **Currently Working on:** Kernel Driver Security & AI-Driven Malware Analysis
+- 🤖 **Learning:** Advanced Reverse Engineering & AI Security Applications
+- 🔬 **Researching:** Assembly, Malware Analysis, and Secure Kernel Development
+- 🚀 **Exploring:** Embedded Security, AI-Powered Cyber Threat Detection
+- 📫 **Contact:** [Email Me](mailto:ankitkushwahahacker99109@gmail.com)  
+- 🌎 **Portfolio:** [Web Profile](https://web-vite-kappa.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://web-vite-kappa.vercel.app/](https://web-vite-kappa.vercel.app/)
+---
 
-- 📫 How to reach me **ankitkushwahahacker99109@gmail.com**
+### 🛡️ Tech Stack & Tools
+#### 🔹 Programming & Scripting:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-525252?style=for-the-badge&logo=assembler&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
- <div style="display: flex; ">
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td> </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-  </tr>
-</table>
-  <table>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-      <br>Sass
-    </td>
-    </tr>
-    <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-      </tr> 
-     
+#### 🔹 Cybersecurity & Reverse Engineering:
+![Metasploit](https://img.shields.io/badge/-Metasploit-00A9E0?style=for-the-badge&logo=metasploit&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-333333?style=for-the-badge&logo=hex-rays&logoColor=white)
+![Ghidra](https://img.shields.io/badge/-Ghidra-FF4500?style=for-the-badge&logo=NSA&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white)
 
-</table>
-</div>
+#### 🔹 AI/ML & Data Science:
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
+#### 🔹 Embedded Systems & Arduino:
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-FF6600?style=for-the-badge&logo=esp32&logoColor=white)
 
+---
 
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ankitkushwaha90&show_icons=true&theme=gotham" alt="ankitkushwaha90" /> </p> -->
+### 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitkushwaha90&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkushwaha90&theme=radical" alt="GitHub Streak" width="49%" />
+</p>
 
-Any suggestions/remarks?🥺👉👈<br/>
-Just drop me a [<b>Chitthi</b>](mailto:ankitkushwahahacker99109@gmail.com)!
+---
 
+### 💡 Projects & Contributions
+🚀 **Latest Projects:**
+- 🔥 **[AI-Powered Malware Detector](https://github.com/ankitkushwaha90/malware-detector)** - Deep Learning-based real-time malware analysis tool.
+- 🔥 **[Kernel Exploit Research](https://github.com/ankitkushwaha90/kernel-exploit-research)** - In-depth research on kernel vulnerabilities.
+- 🔥 **[IoT Security Toolkit](https://github.com/ankitkushwaha90/iot-security-toolkit)** - Automated security auditing tools for IoT devices.
+
+---
+
+### 🏆 Certifications & Achievements
+- ✅ **Certified Ethical Hacker (CEH)**
+- ✅ **OSCP (Offensive Security Certified Professional) - In Progress**
+- ✅ **AI & Machine Learning Specialization - Coursera**
+- ✅ **Reverse Engineering & Malware Analysis - Udemy**
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/ankit-kushwaha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ankitkushwahahacker99109@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ankitkushwaha90"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+💡 *"Knowledge shared is knowledge gained. Let's innovate and secure the future together!"* 🚀
