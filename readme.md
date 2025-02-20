@@ -112,17 +112,8 @@
 </table>
 </div>
 
-### ```Last week I spent time on:```
 
-<!--START_SECTION:waka-->
 
-```text
-JavaScript     ███████████████▒░░░░░░░░░   61.19 %
-React          █████████▒░░░░░░░░░░░░░░░   31.49 %
-Firebase       █████▒░░░░░░░░░░░░░░░░░░░   07.32 %
-```
-
-<!--END_SECTION:waka-->
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ankitkushwaha90&show_icons=true&theme=gotham" alt="ankitkushwaha90" /> </p> -->
 
 Any suggestions/remarks?🥺👉👈<br/>
