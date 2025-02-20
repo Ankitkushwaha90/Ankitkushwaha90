@@ -1,124 +1,79 @@
-<h1 align="center" style="color: red;">Hi 👋, I'm Ankit Kushwaha</h1>
-<h3 align="center">Ethical Hacker & Web Developer</h3>
+<h1 align="center" style="color:#e63946;">Welcome to My Tech Odyssey</h1>
+<h3 align="center">Exploring AI/ML, Cybersecurity, Arduino, Reverse Engineering, Assembly & Kernel Driver Security</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=15F740&width=400&lines=Ankit+Kushwaha;CSE+Penultimate+Year;Ethical+Hacker;Web+Developer;Competitive+Programmer;Web3+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="7GSC.gif" alt="Animated GIF" width="400" height="320" />
+  <img src="https://via.placeholder.com/800x200.png?text=Tech+Odyssey" alt="Tech Banner" style="max-width:80%;">
 </p>
 
 ---
 
-### About Me
+## About Me
 
-- 🔭 **Currently Working On:** Arduino  
-- 🌱 **Currently Learning:** AI Robotics  
-- 👨‍💻 **Projects:** Check out all my projects at [My Projects](https://web-vite-kappa.vercel.app/)  
-- 📫 **Contact:** [ankitkushwahahacker99109@gmail.com](mailto:ankitkushwahahacker99109@gmail.com)
+I'm a passionate technologist driven by the thrill of exploring cutting-edge technology. My work spans across:
+- **Artificial Intelligence & Machine Learning** – Building intelligent systems and leveraging data-driven insights.
+- **Cybersecurity & Ethical Hacking** – Securing systems through rigorous vulnerability analysis and penetration testing.
+- **Arduino & IoT** – Creating innovative, interactive projects with smart devices.
+- **Reverse Engineering & Assembly** – Diving deep into binaries and low-level code to understand system internals.
+- **Kernel Driver Security** – Developing and securing system-level drivers for robust computing environments.
+
+I blend creativity with technical prowess to push the boundaries of modern technology.
 
 ---
 
-### Tech Stack
+## Tech Stack & Tools
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-        <br>C++
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" />
-        <br>Webpack
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-        <br>AWS
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-        <br>GitHub
-      </td>
-      <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" height="48" />
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />
-        <br>HTML5
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
-        <br>CSS
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="48" height="48" />
-        <br>Sass
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48" />
-        <br>Tailwind CSS
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="48" height="48" />
-        <br>jQuery
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
-        <br>PostgreSQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="48" height="48" />
-        <br>WordPress
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48" />
-        <br>Bootstrap
-      </td>
-    </tr>
-  </table>
+  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/AI%2FML-TensorFlow-FF6F00" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/AI%2FML-PyTorch-EE4C2C" alt="PyTorch" />
+
+  <!-- Cybersecurity -->
+  <img src="https://img.shields.io/badge/Cybersecurity-Ethical%20Hacking-4CAF50" alt="Ethical Hacking" />
+  <img src="https://img.shields.io/badge/Pentest-Kali%20Linux-563D7C" alt="Kali Linux" />
+
+  <!-- Arduino & IoT -->
+  <img src="https://img.shields.io/badge/Arduino-IDE-00979D" alt="Arduino" />
+  <img src="https://img.shields.io/badge/IoT-NodeMCU-3F51B5" alt="NodeMCU" />
+
+  <!-- Reverse Engineering & Assembly -->
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-Ghidra-7C4DFF" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/Assembly-NASM-000000" alt="NASM" />
+
+  <!-- Kernel & Driver Security -->
+  <img src="https://img.shields.io/badge/Kernel%20Driver-Security-FF4081" alt="Kernel Driver" />
+  <img src="https://img.shields.io/badge/Linux-Kernel-333333" alt="Linux Kernel" />
 </div>
 
-<!-- Uncomment the following line to display GitHub stats -->
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ankitkushwaha90&show_icons=true&theme=gotham" alt="ankitkushwaha90" /></p> -->
+---
 
-Any suggestions/remarks? 🥺👉👈  
-Just drop me a [Chitthi](mailto:ankitkushwahahacker99109@gmail.com)!
+## Featured Projects
+
+- **AI Chatbot**  
+  A conversational agent powered by deep learning and NLP.
+
+- **Cybersecurity Suite**  
+  A collection of tools for vulnerability assessment and penetration testing.
+
+- **Arduino IoT Hub**  
+  Projects integrating Arduino with sensors and smart devices to automate tasks.
+
+- **Reverse Engineering Toolkit**  
+  Scripts and resources for analyzing binaries and understanding system internals.
+
+- **Secure Kernel Modules**  
+  Developing secure, efficient kernel drivers and modules for Linux.
+
+---
+
+## Connect With Me
+
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+> "Technology is best when it brings people together." – Matt Mullenweg
+
+Feel free to reach out if you want to collaborate or just chat about the latest in tech!
+
