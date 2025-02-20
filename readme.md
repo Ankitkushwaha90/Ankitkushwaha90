@@ -1,5 +1,5 @@
 <h1 align="center" style="text-color:red;">Hi 👋, I'm Ankit kushwaha</h1>
-<h3 align="center">Experienced Ethical Hacker and Web Developer</h3>
+<h3 align="center">Working on Ethical Hacker and Web Developer</h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=15F740&width=400&lines=Ankit+Kushwaha;CSE+Penultimate+Year;Ethical+hacker;Web+Developer;Competitive+Programmer;Web3+enthusiast" alt="Typing SVG" /></a>
 
