@@ -5,7 +5,6 @@
 
 ---
 
-⚠️ <strong>Error</strong>: <code>Count API Failed</code>  
 📊 *Contribution Graph Below*
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitkushwaha90&theme=react-dark)
