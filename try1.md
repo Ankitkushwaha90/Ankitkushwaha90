@@ -1,5 +1,7 @@
 ### 🚀 Ankit Kushwaha | AI/ML, Cybersecurity & Reverse Engineering Enthusiast
 
+![Your Image](https://camo.githubusercontent.com/068609cdda027ae7093ab145a3e9b5d5eca8f649d20088b16c1b2ac8e4a0520a/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d616e6b69746b757368776168613930267468656d653d72656163742d6461726b)
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=15F740&width=600&lines=Ethical+Hacker+|+Cybersecurity+Researcher;AI/ML+Developer+|+Reverse+Engineering;Kernel+Driver+Security+Expert;Arduino+&+Embedded+Systems+Enthusiast;Passionate+about+Low-Level+Security)
 
 ---
