@@ -12,7 +12,7 @@
 ---
 
 ### 📬 Connect with me:
-[🔗 Website]([#](https://web-vite-kappa.vercel.app/)) | [🔗 Movies]([#](https://movix-iota-khaki.vercel.app/)) | [📧 Email](mailto:ankitkushwahahacker99109@gmail.com) | [👨‍💻 Google Dev Profile]([#](https://penetration-testing.vercel.app/))
+[🔗 Website](https://web-vite-kappa.vercel.app/) | [🔗 Movies](https://movix-iota-khaki.vercel.app/) | [📧 Email](mailto:ankitkushwahahacker99109@gmail.com) | [👨‍💻 Threads App](https://penetration-testing.vercel.app/)
 
 ---
 
