@@ -13,12 +13,6 @@
 
 ### 📬 Connect with me:
 [🔗 Website](https://web-vite-kappa.vercel.app/) | [🔗 Movies](https://movix-iota-khaki.vercel.app/) | [📧 Email](mailto:ankitkushwahahacker99109@gmail.com) | [👨‍💻 Threads App](https://penetration-testing.vercel.app/)
-
-
-<a href="https://web-vite-kappa.vercel.app/" target="_blank" rel="noopener noreferrer">🔗 Website</a> |  
-<a href="https://movix-iota-khaki.vercel.app/" target="_blank" rel="noopener noreferrer">🔗 Movies</a> |  
-<a href="mailto:ankitkushwahahacker99109@gmail.com" target="_blank" rel="noopener noreferrer">📧 Email</a> |  
-<a href="https://penetration-testing.vercel.app/" target="_blank" rel="noopener noreferrer">👨‍💻 Threads App</a>
 ---
 
 ### 👋 About Me
