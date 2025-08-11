@@ -59,6 +59,77 @@ Currently exploring:
 <details>
 <summary>📊 <b>Stats & Activity</b></summary>
 
+import { Link } from 'components/Link'
+
+##  Featured Projects
+
+---
+
+### 1. MoodifyAI
+**Description:** AI model that detects emotions and recommends stress-relief solutions.  
+**Technologies:** TensorFlow · OpenCV · Keras · Matplotlib · Pandas
+
+---
+
+### 2. PaperMind AI
+**Description:** AI PDF assistant enabling natural-language chat with any document—powered by FAISS and LangChain.  
+**Technologies:** RAG · LangChain · PyTorch
+
+---
+
+### 3. YouTube-RAG-Chatbot
+**Description:** Jupyter Notebook–based chatbot for Q&A on YouTube videos using Retrieval-Augmented Generation.  
+**Technologies:** RAG · LangChain · Python · Jupyter
+
+---
+
+### 4. NFT Marketplace
+**Description:** Decentralized NFT platform with smart contracts.  
+**Technologies:** Solidity · Next.js · IPFS · Web3.js
+
+---
+
+### 5. EchoHive
+**Description:** Real-time multilingual chatroom with live translation.  
+**Technologies:** Flask · Google Translate API · Socket.io
+
+---
+
+### 6. Face Recognition
+**Description:** Real-time deep-learning face recognition application.  
+**Technologies:** OpenCV · TensorFlow · Dlib
+
+---
+
+##  Hugging Face Models
+
+From my Hugging Face profile, here are some standout models that embody the vision of **“Merging Consciousness and Code for a Secure Digital Future”**:
+
+- **Qwen3-4B** – A text classification model updated just minutes ago, showcasing continual improvement and mindful AI capabilities.  
+- **safetensors** – Token classification model designed with safety and structured architecture in mind.  
+- **mcp_using_gguf_model_in_terminal** – Token classification model built for secure terminal environments.  
+- **Pytorch_GenAI** – Text classification model leveraging generative AI principles.  
+- **cuda_setup_for_gguf** – Token classification model with focus on efficient and secure CUDA workflows.  
+- **Minimal_Large_Language_Model** – A lightweight yet powerful text classification model.  
+- **Advanced_Rag_Lora_Finetune** – Text classification model fine-tuned with RAG and LoRA—perfect synergy of memory-augmented learning and efficiency.  
+- **llama-3-8b-bnb-4bit-safetensor** – Compact and quantized model for resource-efficient text generation.  
+- **DCGAN** – Model tailored for generative tasks in text classification space.  
+- **stable-diffusion** – Text-to-audio model, blending creative generation with transformative AI.
+
+These resources reflect a thoughtful integration of conscious design, efficiency, and security in AI development.
+
+---
+
+##  Embodying the Vision
+
+All of these models reflect the ethos of **Merging Consciousness and Code for a Secure Digital Future**—where every algorithm and model isn't just powerful, but also aligned with ethos-driven innovation. From emotion-aware systems to secure generative pipelines, this collection demonstrates a balance of mindfulness, technical strength, and forward-focused AI.
+
+---
+
+Need this adapted for a specific context—like a personal website, GitHub README, or a presentation? I'd be happy to tailor the tone or structure for you.
+::contentReference[oaicite:0]{index=0}
+
+
 ![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitkushwaha90&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkushwaha90&layout=compact&theme=tokyonight)
