@@ -136,16 +136,6 @@ Need this adapted for a specific context—like a personal website, GitHub READM
 
 </details>
 
----
-
-##  Featured Models on Hugging Face
-
-| Model | Description |
-|-------|-------------|
-| [Qwen3-4B](https://huggingface.co/ankitkushwaha90/Qwen3-4B) | Up-to-date text classification model—versatile and powerful. |
-| [safetensors](https://huggingface.co/ankitkushwaha90/safetensors) | Token classification with optimized and safe tensor format. |
-| [mcp_using_gguf_model_in_terminal](https://huggingface.co/ankitkushwaha90/mcp_using_gguf_model_in_terminal) | Terminal MCP server offering AI chat with secure command execution. |
-| [Minimal_Large_Language_Model](https://huggingface.co/ankitkushwaha90/Minimal_Large_Language_Model) | Educational minimal LLM in PyTorch for understanding language model internals. |
 
 
 ---
