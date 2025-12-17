@@ -16,10 +16,64 @@
 [🔗 Website](https://web-vite-kappa.vercel.app/) | [🔗 Movies](https://movix-iota-khaki.vercel.app/) | [📧 Email](mailto:ankitkushwahahacker99109@gmail.com) | [👨‍💻 Threads App](https://penetration-testing.vercel.app/)
 
 ---
+### 👋 About Me
+
+Hi there! I'm **Ankit Kushwaha**, deeply immersed in the world of cutting-edge technologies, blending aerospace engineering, advanced sensing, security, AI, and next-generation space exploration:
+
+- 🚀 **Advanced Spaceship Technologies**  
+  Propulsion systems (ion thrusters, Hall-effect thrusters, solar sails), in-space manufacturing, and deep-space mission architectures.  
+  
+  ![Solar Electric Propulsion](https://upload.wikimedia.org/wikipedia/commons/f/f5/Deep_Space_1_clean_%28PIA04242%29.png)  
+  ![In-Space Propulsion](https://www.nasa.gov/wp-content/uploads/2021/10/figure4.29-soa2022.png?w=985)  
+  ![Hall Thruster](https://www.nasa.gov/wp-content/uploads/2023/03/stmd_sep_hall_thruster.jpg?w=1041)  
+  ![Ion Thrusters Test](https://cdn.mos.cms.futurecdn.net/TAduBE6Z8ePphvhn8GfUDo-1200-80.jpg)
+
+- ✈️ **Military Aviation & Jet Engine Systems**  
+  Architecture, thermodynamics, hardware-software integration, and high-performance propulsion.  
+  
+  ![Turbojet Diagram](https://thumbs.dreamstime.com/b/turbojet-vector-illustration-diagram-typical-gas-turbine-jet-engine-215133349.jpg)  
+  ![Turbofan Anatomy](https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122179095158166105)
+
+- 📡 **Radar Systems**  
+  FMCW waveforms, Doppler processing, military applications, signal simulations, and secure implementations.  
+  
+  ![Radar Concept](https://www.egr.msu.edu/classes/ece480/capstone/spring12/group05/radar_files/image006.jpg)  
+  ![FMCW Block Diagram](https://www.researchgate.net/publication/228639224/figure/fig3/AS:667829036654600@1536234258542/Block-diagram-of-the-heterodyne-FMCW-radar-sensor-with-a-six-port-double-balanced-mixer-a.png)
+
+- 🔦 **LIDAR & Multi-Sensor Fusion**  
+  3D mapping, autonomous systems, radar-LIDAR integration for enhanced environmental awareness.  
+  
+  ![LIDAR Fusion Detection](https://www.mdpi.com/wevj/wevj-16-00306/article_deploy/html/images/wevj-16-00306-g001.png)  
+  ![LIDAR Automotive](https://i0.wp.com/blog.lidarnews.com/wp-content/uploads/2016/07/leddartech-lidar-1.jpg?ssl=1)
+
+- 🛡️ **Cybersecurity & Ethical Hacking**  
+  Secure aerospace/defense systems, threat modeling, and AI-driven protections.  
+  
+  ![AI Cybersecurity](https://s3.ap-south-1.amazonaws.com/webasha-blog/uploads/images/202502/image_750x_67b9642de9d1c.webp)
+
+- 🤖 **AI/ML, LLMs & Local Model Development**  
+  Ollama, Hugging Face integrations, reverse engineering applications, and embedded AI.  
+  
+  ![Hugging Face vs Ollama](https://usercontent.one/wp/collabnix.com/wp-content/uploads/2025/09/Screenshot-2025-09-14-at-8.31.40%E2%80%AFAM.png?media=1736482966)
+
+- 🧠 **Reverse Engineering, Kernel Hacking & Assembly**  
+  Low-level systems analysis for performance and security.  
+  
+  ![Kernel Hacking](https://i.ytimg.com/vi/-c6yMIeVDOI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA69a4KogffCQNl74sDNeSSu5Lvyw)
+
+- 🌐 **Full-Stack Web & Android App Development**  
+  Building robust, scalable applications with modern frameworks.  
+  
+  ![Tech Stack 2025](https://5ly.co/content/images/2023/08/IMG_20230824_132515_966.jpg)
+
+Passionate about self-directed research, hands-on simulations, coding prototypes, and pushing the boundaries of interdisciplinary tech—from Earth-bound aviation to deep-space propulsion. 🚀
+
+Feel free to explore my repositories for projects, notes, and open-source contributions!
+
 
 ### 👋 About Me
 
-Hi there! I'm **Ankit Kushwaha**, a passionate Computer Science undergrad at **NITRA Technical Campus**, deeply immersed in the world of:
+Hi there! I'm Ankit Kushwaha, deeply immersed in the world of cutting-edge technologies, blending aerospace engineering, advanced sensing, security, AI, and next-generation space exploration:
 
 - 🛡️ **Cybersecurity & Ethical Hacking**
 - 🤖 **AI/ML, LLMs & Local Model Development (Ollama, Hugging Face)**
