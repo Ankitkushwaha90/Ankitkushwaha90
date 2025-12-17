@@ -17,7 +17,6 @@
 
 ---
 
-
 ### 👋 About Me
 
 Hi there! I'm **Ankit Kushwaha**, a passionate Computer Science undergrad at **NITRA Technical Campus**, deeply immersed in the world of:
@@ -61,6 +60,8 @@ Currently exploring:
 <summary>📊 <b>Stats & Activity</b></summary>
 
 import { Link } from 'components/Link'
+
+</details>
 
 ##  Featured Projects
 
