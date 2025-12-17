@@ -19,6 +19,74 @@
 
 ### 👋 About Me
 
+Hi there! I'm **Ankit Kushwaha**, deeply immersed in the world of cutting-edge technologies, blending aerospace engineering, advanced sensing, security, AI, and next-generation space exploration:
+
+- 🚀 **Advanced Spaceship Technologies**  
+  Propulsion systems (ion thrusters, Hall-effect thrusters, solar sails), in-space manufacturing, and deep-space mission architectures.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- ✈️ **Military Aviation & Jet Engine Systems**  
+  Architecture, thermodynamics, hardware-software integration, and high-performance propulsion.
+
+
+
+
+
+
+
+
+- 📡 **Radar Systems**  
+  FMCW waveforms, Doppler processing, military applications, signal simulations, and secure implementations.
+
+
+
+
+
+
+
+
+- 🔦 **LIDAR & Multi-Sensor Fusion**  
+  3D mapping, autonomous systems, radar-LIDAR integration for enhanced environmental awareness.
+
+
+
+
+
+
+
+
+- 🛡️ **Cybersecurity & Ethical Hacking**  
+  Secure aerospace/defense systems, threat modeling, and AI-driven protections.
+
+- 🤖 **AI/ML, LLMs & Local Model Development**  
+  Ollama, Hugging Face integrations, reverse engineering applications, and embedded AI.
+
+- 🧠 **Reverse Engineering, Kernel Hacking & Assembly**  
+  Low-level systems analysis for performance and security.
+
+- 🌐 **Full-Stack Web & Android App Development**  
+  Building robust, scalable applications with modern frameworks.
+
+Passionate about self-directed research, hands-on simulations, coding prototypes, and pushing the boundaries of interdisciplinary tech—from Earth-bound aviation to deep-space propulsion. 🚀
+
+Feel free to explore my repositories for projects, notes, and open-source contributions!
+
+### 👋 About Me
+
 Hi there! I'm **Ankit Kushwaha**, a passionate Computer Science undergrad at **NITRA Technical Campus**, deeply immersed in the world of:
 
 - 🛡️ **Cybersecurity & Ethical Hacking**
