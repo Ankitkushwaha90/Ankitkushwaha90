@@ -69,14 +69,7 @@
 
 ---
 
-### 🏆 Certifications & Achievements
 
-* ✅ **Certified Ethical Hacker (CEH)**
-* ✅ **OSCP (Offensive Security Certified Professional) - In Progress**
-* ✅ **AI & Machine Learning Specialization - Coursera**
-* ✅ **Reverse Engineering & Malware Analysis - Udemy**
-
----
 
 ### 📢 Connect with Me
 
