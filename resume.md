@@ -5,7 +5,7 @@ description: "Cybersecurity Researcher | Web Developer | Blockchain Enthusiast"
 ---
 
 # 👋 Hi, I'm Ankit Kushwaha  
-🎓 **B.Tech Student** | CSE, Ghaziabad  
+🎓 **B.Tech** | CSE, Ghaziabad  
 🔍 **Cybersecurity Researcher** | Low-level Languages, Reverse Engineering  
 ⚡ **Developer** | Web, Blockchain, DevOps, Arduino  
 
