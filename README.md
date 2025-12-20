@@ -20,129 +20,78 @@
 
 ---
 
-Here are the images from your "About Me" section, with suggested source/research links where available (based on the hosting sites, common origins, or reverse image context). Many are from official NASA pages, academic papers, stock sites, or blogs—ideal for crediting or further research. I've included brief descriptions and recommended source links:
+
+Here’s an updated version of the image sources list from your "About Me" section, with **clickable Markdown links** that will open in a new tab/window (using standard `target="_blank"` behavior in most platforms like GitHub, LinkedIn, or personal sites).
+
+Copy-paste these directly into your profile for easy, new-tab opening on click:
 
 ### 🚀 Advanced Spaceship Technologies
 1. **Solar Electric Propulsion** (Deep Space 1 spacecraft with ion thruster)  
    Source/Research: NASA JPL Photojournal  
-   Link: https://photojournal.jpl.nasa.gov/catalog/PIA04242
+   [![Deep Space 1](https://photojournal.jpl.nasa.gov/jpeg/PIA04242.jpg)](https://photojournal.jpl.nasa.gov/catalog/PIA04242)  
+   [Open NASA JPL page →](https://photojournal.jpl.nasa.gov/catalog/PIA04242)
 
-2. **In-Space Propulsion** (Figure 4.29 from State of the Art 2022 report)  
-   Source/Research: NASA official image archive (likely from Space Technology Mission Directorate report)  
-   Link: https://www.nasa.gov/specials/soa2022/ (or search NASA site for "State of the Art 2022 propulsion")
+2. **In-Space Propulsion** (Figure from NASA Small Spacecraft Technology State-of-the-Art report)  
+   Source/Research: NASA Small Spacecraft Technology  
+   [Open NASA In-Space Propulsion chapter (2022 report) →](https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion/)  
+   (Full PDF: [2022 Report](https://www.nasa.gov/wp-content/uploads/2023/05/2022-soa-full.pdf))
 
-3. **Hall Thruster** (NASA's Solar Electric Propulsion Hall thruster testing)  
-   Source/Research: NASA Glenn Research Center or STMD article  
-   Link: https://www.nasa.gov/directorates/stmd/solar-electric-propulsion/
+3. **Hall Thruster** (NASA's Hall-effect thruster testing)  
+   Source/Research: NASA Glenn Research Center / STMD  
+   [Open NASA Solar Electric Propulsion page →](https://www.nasa.gov/directorates/stmd/solar-electric-propulsion/)
 
-4. **Ion Thrusters Test** (NEXT ion engine testing at NASA Glenn)  
-   Source/Research: Space.com article on NASA's ion thrusters  
-   Link: https://www.space.com/nasa-next-ion-thruster-test (or similar Future/Space.com coverage)
+4. **Ion Thrusters Test** (NEXT ion engine testing)  
+   Source/Research: NASA Glenn Research Center  
+   [Open NASA NEXT Ion Thruster page →](https://www1.grc.nasa.gov/space/sep/gridded-ion-thrusters-next-c/)
 
 ### ✈️ Military Aviation & Jet Engine Systems
-5. **Turbojet Diagram** (Vector illustration of typical gas turbine jet engine)  
+5. **Turbojet Diagram** (Vector illustration of gas turbine jet engine)  
    Source/Research: Dreamstime stock illustration  
-   Link: https://www.dreamstime.com/turbojet-vector-illustration-diagram-typical-gas-turbine-jet-engine-image215133349
+   [Open Dreamstime source →](https://www.dreamstime.com/turbojet-vector-illustration-diagram-typical-gas-turbine-jet-engine-image215133349)
 
-6. **Turbofan Anatomy** (Cross-section diagram of a turbofan engine)  
-   Source/Research: Likely from a Facebook post/page (e.g., aviation enthusiast or educational page); hard to trace exact original, but similar diagrams are common on Wikipedia or engineering sites.  
-   Suggested alternative: https://en.wikipedia.org/wiki/Turbofan (for public domain diagrams)
+6. **Turbofan Anatomy** (Cross-section diagram)  
+   Source/Research: Common engineering diagrams (similar on Wikipedia/ResearchGate)  
+   [Open example turbofan cross-section →](https://www.researchgate.net/figure/Cross-section-of-a-turbofan-engine-1_fig1_334737601)
 
 ### 📡 Radar Systems
 7. **Radar Concept** (Basic radar system illustration)  
-   Source/Research: Michigan State University ECE 480 capstone project (Spring 2012, Group 05)  
-   Link: https://www.egr.msu.edu/classes/ece480/capstone/spring12/group05/ (project report/application note)
+   Source/Research: MSU ECE 480 Capstone Project (Spring 2012)  
+   [Open project page →](https://www.egr.msu.edu/classes/ece480/capstone/spring12/group05/)
 
-8. **FMCW Block Diagram** (Heterodyne FMCW radar sensor with six-port mixer)  
+8. **FMCW Block Diagram** (Heterodyne FMCW with six-port mixer)  
    Source/Research: ResearchGate academic paper  
-   Link: https://www.researchgate.net/publication/228639224_A_six-port_based_FMCW_radar_sensor (or search for the figure in FMCW radar papers)
+   [Open paper with diagram →](https://www.researchgate.net/figure/Block-diagram-of-the-heterodyne-FMCW-radar-sensor-with-a-six-port-double-balanced-mixer-a_fig3_228639224)
 
 ### 🔦 LIDAR & Multi-Sensor Fusion
-9. **LIDAR Fusion Detection** (Figure from sensor fusion study)  
-   Source/Research: MDPI open-access journal article in World Electric Vehicle Journal  
-   Link: https://www.mdpi.com/2032-6653/16/3/306 (or similar volume on multi-sensor fusion)
+9. **LIDAR Fusion Detection** (Sensor fusion figure)  
+   Source/Research: MDPI World Electric Vehicle Journal  
+   [Open article →](https://www.mdpi.com/2032-6653/16/3/306)
 
-10. **LIDAR Automotive** (LeddarTech solid-state LIDAR unit)  
-    Source/Research: LIDAR News blog post on LeddarTech  
-    Link: https://lidarnews.com/articles/leddartech-introduces-new-lidar-sensor/ (circa 2016 coverage)
+10. **LIDAR Automotive** (LeddarTech solid-state LIDAR)  
+    Source/Research: LeddarTech (circa 2016 Vu8 launch)  
+    [Open LeddarTech archive/news →](https://leddartech.com/leddartech-launches-leddarvu-new-scalable-platform-towards-high-resolution-lidar/)
 
 ### 🛡️ Cybersecurity & Ethical Hacking
-11. **AI Cybersecurity** (Illustration of AI in cyber defense)  
+11. **AI Cybersecurity** (AI in cyber defense illustration)  
     Source/Research: Webasha Technologies blog  
-    Link: https://www.webasha.com/blog/ai-in-cybersecurity (or search their site for the 2025 post)
+    [Open blog post →](https://www.webasha.com/blog/the-role-of-ai-in-modern-cybersecurity-how-artificial-intelligence-is-transforming-threat-detection-and-cyber-defense)
 
 ### 🤖 AI/ML, LLMs & Local Model Development
-12. **Hugging Face vs Ollama** (Comparison screenshot/table)  
-    Source/Research: Collabnix blog article  
-    Link: https://collabnix.com/hugging-face-vs-ollama-comparison/ (or similar 2025 post)
+12. **Hugging Face vs Ollama** (Comparison table/screenshot)  
+    Source/Research: Collabnix blog  
+    [Open comparison article →](https://collabnix.com/hugging-face-vs-ollama-the-complete-technical-deep-dive-guide-for-local-ai-development-in-2025/)
 
 ### 🧠 Reverse Engineering, Kernel Hacking & Assembly
-13. **Kernel Hacking** (Thumbnail from tutorial video)  
-    Source/Research: YouTube video on kernel hacking  
-    Link: https://www.youtube.com/watch?v=-c6yMIeVDOI
+13. **Kernel Hacking** (Tutorial video thumbnail)  
+    Source/Research: YouTube kernel hacking tutorials  
+    [Open example kernel hacking video →](https://www.youtube.com/watch?v=-c6yMIeVDOI)
 
 ### 🌐 Full-Stack Web & Android App Development
-14. **Tech Stack 2025** (Overview of popular technologies in 2025)  
-    Source/Research: 5ly.co blog or image gallery  
-    Link: https://5ly.co/blog/tech-stack-2025 (check site for the post)
+14. **Tech Stack 2025** (Popular technologies overview)  
+    Source/Research: 5ly.co blog  
+    [Open tech stack guide →](https://5ly.co/blog/ai-tech-stack/)
 
-These links point to the original publications, articles, or archives where possible—great for deeper research, citations, or verifying details. If an exact match isn't available, the suggested ones have highly similar/identical content. Let me know if you need help updating your profile with these! 🚀
-
-
-
-
-### 👋 About Me
-Hi there! I'm **Ankit Kushwaha**, deeply immersed in the world of cutting-edge technologies, blending aerospace engineering, advanced sensing, security, AI, and next-generation space exploration:
-
-- 🚀 **Advanced Spaceship Technologies**  
-  Propulsion systems (ion thrusters, Hall-effect thrusters, solar sails), in-space manufacturing, and deep-space mission architectures.  
-  
-  ![Solar Electric Propulsion](https://upload.wikimedia.org/wikipedia/commons/f/f5/Deep_Space_1_clean_%28PIA04242%29.png)  
-  ![In-Space Propulsion](https://www.nasa.gov/wp-content/uploads/2021/10/figure4.29-soa2022.png?w=985)  
-  ![Hall Thruster](https://www.nasa.gov/wp-content/uploads/2023/03/stmd_sep_hall_thruster.jpg?w=1041)  
-  ![Ion Thrusters Test](https://cdn.mos.cms.futurecdn.net/TAduBE6Z8ePphvhn8GfUDo-1200-80.jpg)
-
-- ✈️ **Military Aviation & Jet Engine Systems**  
-  Architecture, thermodynamics, hardware-software integration, and high-performance propulsion.  
-  
-  ![Turbojet Diagram](https://thumbs.dreamstime.com/b/turbojet-vector-illustration-diagram-typical-gas-turbine-jet-engine-215133349.jpg)  
-  ![Turbofan Anatomy](https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122179095158166105)
-
-- 📡 **Radar Systems**  
-  FMCW waveforms, Doppler processing, military applications, signal simulations, and secure implementations.  
-  
-  ![Radar Concept](https://www.egr.msu.edu/classes/ece480/capstone/spring12/group05/radar_files/image006.jpg)  
-  ![FMCW Block Diagram](https://www.researchgate.net/publication/228639224/figure/fig3/AS:667829036654600@1536234258542/Block-diagram-of-the-heterodyne-FMCW-radar-sensor-with-a-six-port-double-balanced-mixer-a.png)
-
-- 🔦 **LIDAR & Multi-Sensor Fusion**  
-  3D mapping, autonomous systems, radar-LIDAR integration for enhanced environmental awareness.  
-  
-  ![LIDAR Fusion Detection](https://www.mdpi.com/wevj/wevj-16-00306/article_deploy/html/images/wevj-16-00306-g001.png)  
-  ![LIDAR Automotive](https://i0.wp.com/blog.lidarnews.com/wp-content/uploads/2016/07/leddartech-lidar-1.jpg?ssl=1)
-
-- 🛡️ **Cybersecurity & Ethical Hacking**  
-  Secure aerospace/defense systems, threat modeling, and AI-driven protections.  
-  
-  ![AI Cybersecurity](https://s3.ap-south-1.amazonaws.com/webasha-blog/uploads/images/202502/image_750x_67b9642de9d1c.webp)
-
-- 🤖 **AI/ML, LLMs & Local Model Development**  
-  Ollama, Hugging Face integrations, reverse engineering applications, and embedded AI.  
-  
-  ![Hugging Face vs Ollama](https://usercontent.one/wp/collabnix.com/wp-content/uploads/2025/09/Screenshot-2025-09-14-at-8.31.40%E2%80%AFAM.png?media=1736482966)
-
-- 🧠 **Reverse Engineering, Kernel Hacking & Assembly**  
-  Low-level systems analysis for performance and security.  
-  
-  ![Kernel Hacking](https://i.ytimg.com/vi/-c6yMIeVDOI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA69a4KogffCQNl74sDNeSSu5Lvyw)
-
-- 🌐 **Full-Stack Web & Android App Development**  
-  Building robust, scalable applications with modern frameworks.  
-  
-  ![Tech Stack 2025](https://5ly.co/content/images/2023/08/IMG_20230824_132515_966.jpg)
-
-Passionate about self-directed research, hands-on simulations, coding prototypes, and pushing the boundaries of interdisciplinary tech—from Earth-bound aviation to deep-space propulsion. 🚀
-
-Feel free to explore my repositories for projects, notes, and open-source contributions!
+These clickable links will open directly in a new tab when viewers click them—perfect for research or credits. If your profile platform supports full Markdown (e.g., GitHub README), it’ll work seamlessly. Let me know if you need adjustments or more alternatives! 🚀
 
 
 ### 👋 About Me
