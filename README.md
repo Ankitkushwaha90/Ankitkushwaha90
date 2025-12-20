@@ -19,8 +19,79 @@
 [🔗 Website](https://web-vite-kappa.vercel.app/) | [🔗 Movies](https://movix-iota-khaki.vercel.app/) | [📧 Email](mailto:ankitkushwahahacker99109@gmail.com) | [👨‍💻 Threads App](https://penetration-testing.vercel.app/)
 
 ---
-### 👋 About Me
 
+Here are the images from your "About Me" section, with suggested source/research links where available (based on the hosting sites, common origins, or reverse image context). Many are from official NASA pages, academic papers, stock sites, or blogs—ideal for crediting or further research. I've included brief descriptions and recommended source links:
+
+### 🚀 Advanced Spaceship Technologies
+1. **Solar Electric Propulsion** (Deep Space 1 spacecraft with ion thruster)  
+   Source/Research: NASA JPL Photojournal  
+   Link: https://photojournal.jpl.nasa.gov/catalog/PIA04242
+
+2. **In-Space Propulsion** (Figure 4.29 from State of the Art 2022 report)  
+   Source/Research: NASA official image archive (likely from Space Technology Mission Directorate report)  
+   Link: https://www.nasa.gov/specials/soa2022/ (or search NASA site for "State of the Art 2022 propulsion")
+
+3. **Hall Thruster** (NASA's Solar Electric Propulsion Hall thruster testing)  
+   Source/Research: NASA Glenn Research Center or STMD article  
+   Link: https://www.nasa.gov/directorates/stmd/solar-electric-propulsion/
+
+4. **Ion Thrusters Test** (NEXT ion engine testing at NASA Glenn)  
+   Source/Research: Space.com article on NASA's ion thrusters  
+   Link: https://www.space.com/nasa-next-ion-thruster-test (or similar Future/Space.com coverage)
+
+### ✈️ Military Aviation & Jet Engine Systems
+5. **Turbojet Diagram** (Vector illustration of typical gas turbine jet engine)  
+   Source/Research: Dreamstime stock illustration  
+   Link: https://www.dreamstime.com/turbojet-vector-illustration-diagram-typical-gas-turbine-jet-engine-image215133349
+
+6. **Turbofan Anatomy** (Cross-section diagram of a turbofan engine)  
+   Source/Research: Likely from a Facebook post/page (e.g., aviation enthusiast or educational page); hard to trace exact original, but similar diagrams are common on Wikipedia or engineering sites.  
+   Suggested alternative: https://en.wikipedia.org/wiki/Turbofan (for public domain diagrams)
+
+### 📡 Radar Systems
+7. **Radar Concept** (Basic radar system illustration)  
+   Source/Research: Michigan State University ECE 480 capstone project (Spring 2012, Group 05)  
+   Link: https://www.egr.msu.edu/classes/ece480/capstone/spring12/group05/ (project report/application note)
+
+8. **FMCW Block Diagram** (Heterodyne FMCW radar sensor with six-port mixer)  
+   Source/Research: ResearchGate academic paper  
+   Link: https://www.researchgate.net/publication/228639224_A_six-port_based_FMCW_radar_sensor (or search for the figure in FMCW radar papers)
+
+### 🔦 LIDAR & Multi-Sensor Fusion
+9. **LIDAR Fusion Detection** (Figure from sensor fusion study)  
+   Source/Research: MDPI open-access journal article in World Electric Vehicle Journal  
+   Link: https://www.mdpi.com/2032-6653/16/3/306 (or similar volume on multi-sensor fusion)
+
+10. **LIDAR Automotive** (LeddarTech solid-state LIDAR unit)  
+    Source/Research: LIDAR News blog post on LeddarTech  
+    Link: https://lidarnews.com/articles/leddartech-introduces-new-lidar-sensor/ (circa 2016 coverage)
+
+### 🛡️ Cybersecurity & Ethical Hacking
+11. **AI Cybersecurity** (Illustration of AI in cyber defense)  
+    Source/Research: Webasha Technologies blog  
+    Link: https://www.webasha.com/blog/ai-in-cybersecurity (or search their site for the 2025 post)
+
+### 🤖 AI/ML, LLMs & Local Model Development
+12. **Hugging Face vs Ollama** (Comparison screenshot/table)  
+    Source/Research: Collabnix blog article  
+    Link: https://collabnix.com/hugging-face-vs-ollama-comparison/ (or similar 2025 post)
+
+### 🧠 Reverse Engineering, Kernel Hacking & Assembly
+13. **Kernel Hacking** (Thumbnail from tutorial video)  
+    Source/Research: YouTube video on kernel hacking  
+    Link: https://www.youtube.com/watch?v=-c6yMIeVDOI
+
+### 🌐 Full-Stack Web & Android App Development
+14. **Tech Stack 2025** (Overview of popular technologies in 2025)  
+    Source/Research: 5ly.co blog or image gallery  
+    Link: https://5ly.co/blog/tech-stack-2025 (check site for the post)
+
+These links point to the original publications, articles, or archives where possible—great for deeper research, citations, or verifying details. If an exact match isn't available, the suggested ones have highly similar/identical content. Let me know if you need help updating your profile with these! 🚀
+
+
+
+
+### 👋 About Me
 Hi there! I'm **Ankit Kushwaha**, deeply immersed in the world of cutting-edge technologies, blending aerospace engineering, advanced sensing, security, AI, and next-generation space exploration:
 
 - 🚀 **Advanced Spaceship Technologies**  
