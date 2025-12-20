@@ -1,7 +1,9 @@
-<h1 align="center">Yup, that's me...!</h1>
+<h1 align="center">The Earth is Alive… Are We Listening? 🌎</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=A+Cybersecurity+and+AI+Explorer;A+Spiritual+Seeker+%26+Tech+Tinkerer;Always+Hacking+%7C+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=620&lines=Plants+Give+Life+Without+Asking;Trees+Breathe+So+We+Can+Live;Save+Nature+Today+for+Tomorrow" alt="Typing SVG" />
 </p>
+
 
 ---
 
