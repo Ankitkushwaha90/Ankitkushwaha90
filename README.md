@@ -10,7 +10,7 @@
 
 📊 *Contribution Graph Below*
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitkushwaha90&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SpritualKrishna&theme=react-dark)
 
 ---
 
